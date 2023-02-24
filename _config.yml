@@ -6,7 +6,7 @@ github: metadata
 
 # Site Settings
 locale          : "de"
-title           : "Req42"
+title           : "req42"
 logo            : "images/avatar.jpg"
 title_separator : "-"
 name            : ""

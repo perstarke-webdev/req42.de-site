@@ -1,7 +1,7 @@
 ---
 layout: single
-title: Impressum
-permalink: /imprint
+title: Datenschutz
+permalink: /privacy
 ---
 
 #### Anbieter und Verantwortliche Person

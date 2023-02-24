@@ -2,7 +2,26 @@
 main:
   - title: "Home"
     url: /
-  - title: "Impressum"
-    url: /imprint
+  - title: "Das req42-Framework"
+    url: /req42-im-ueberblick
+  - title: "Seminare"
+    url: /kurse
+    sublinks:
+      - title: "Mastering Agile Requirements"
+        url: /masteringagile
+      - title: "Requirements Grundlagen"
+        url: /requirements-grundlagen
+      - title: "RE@Agile"
+        url: /reagile
+      - title: "IREB Zertifizierungen"
+        url: /ireb-zertifizierungen
+      - title: "Geschäftsbedingungen"
+        url: /geschaeftsbedingungen
+  - title: "Impuls-Coaching"
+    url: /coaching
+  - title: "Blog"
+    url: /blog
+  - title: "Über uns"
+    url: /ueber-uns
 
 

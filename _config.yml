@@ -7,6 +7,7 @@ github: metadata
 # Site Settings
 locale          : "de"
 title           : "Req42"
+logo            : "images/avatar.jpg"
 title_separator : "-"
 name            : ""
 description     : "Agiles Requirements Management"

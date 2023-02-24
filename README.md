@@ -1,6 +1,6 @@
-# Basic homepage template
+# req42.de-site
 
-Repository for the website xyz
+Repository for the website req42.de
 
 ## Credits
 
@@ -8,4 +8,4 @@ Based upon [Jekyll](https://jekyllrb.org) and the [MinimalMistakes theme](https:
 
 ## License
 This work is copyrighted - no parts of it may be copied, stored or otherwise re-used without prior written consent
-of the author [xzy](mailto:xyz)
+of the author [Peter Hruschka](mailto:hruschka@b-agile.de)

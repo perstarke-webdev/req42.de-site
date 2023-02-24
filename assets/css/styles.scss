@@ -1,3 +1,6 @@
 ---
 ---
 @import "website-style.css";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+@import "minimal-mistakes";

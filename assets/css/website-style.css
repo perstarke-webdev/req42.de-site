@@ -30,3 +30,8 @@ hr.big-sep {
 small.price {
     color: grey
 }
+
+div.framework {
+    margin-left: 50px;
+    margin-right: 50px;
+}

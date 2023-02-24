@@ -2,7 +2,7 @@ FROM jekyll/builder
 
 LABEL version="0.8.0"
 LABEL description="develop and generate req42.de "
-LABEL vendor="Gernot Starke"
+LABEL vendor="Peter Hruschka"
 
 COPY Gemfile .
 

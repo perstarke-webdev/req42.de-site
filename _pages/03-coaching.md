@@ -70,7 +70,7 @@ Mehr dazu als Download.
 Alle Mitarbeiter in IT- und Fachabteilungen, die mit IT-Projekten zu tun haben, z.B. Business Experten, Business-Analytiker, Requirements Engineers, Software-Architekten, Product-Owner, SCRUM-Teams, Verantwortliche für die Einführung agiler Methoden, Prozessverbesserer, Qualitätssicherer, Projektmanager, Portfolio-Manager.
 
 ## Warum sollten Sie Impuls-Coaching und -Consulting ins Auge fassen?
-Dr. Peter Hruschka und Markus Meuten helfen Ihnen, die Kugel ins Rollen zu bringen. Dank ihrer jahrzehntelangen , weltweiten Erfahrung mit Entwicklungsmethoden und -Tools, Prozessverbesserungsprogrammen und Standardisierungen finden wir zusammen in kurzer Zeit einen für Sie idealen Ansatz zur Problembewältigung oder Prozessoptimierung. Alle Vorschläge sind industrie-erprobt, pragmatisch und in kurzer Zeit für Projektteams umsetzbar. Training on the Job und invididuelles Impuls-Coaching ist wesentlich preiswerter und effektiver als Standardseminare und monatelanges Consulting.
+Dr. Peter Hruschka und Markus Meuten helfen Ihnen, die Kugel ins Rollen zu bringen. Dank ihrer jahrzehntelangen, weltweiten Erfahrung mit Entwicklungsmethoden und -Tools, Prozessverbesserungsprogrammen und Standardisierungen finden wir zusammen in kurzer Zeit einen für Sie idealen Ansatz zur Problembewältigung oder Prozessoptimierung. Alle Vorschläge sind industrie-erprobt, pragmatisch und in kurzer Zeit für Projektteams umsetzbar. Training on the Job und invididuelles Impuls-Coaching ist wesentlich preiswerter und effektiver als Standardseminare und monatelanges Consulting.
 Versuchen Sie es! Nur 1 – 3 Tage, die sich rasch bezahlt machen.
 
 ## Der nächste Schritt

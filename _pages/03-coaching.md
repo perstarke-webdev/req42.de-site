@@ -76,5 +76,8 @@ Versuchen Sie es! Nur 1 – 3 Tage, die sich rasch bezahlt machen.
 ## Der nächste Schritt
 Sammeln Sie in Ihrem Unternehmen die Herausforderungen. Ein kurzes Brainstorming mit verschiedenen Vertretern der Software- und Systementwicklung – und schon können Sie Ihre Wünsche besser formulieren. Übermitteln Sie diese Erkenntnisse telefonisch (+49 172 241 1656) – oder besser per [E-Mail](mailto:hruschka@b-agile.de) – und wir unterbreiten Ihnen konkrete Vorschläge und Angebote zum Impuls-Coaching.
 
-## **Brauchen Sie einen Impuls?**
+<br> 
+<hr class="big-sep">  
+
+## Brauchen Sie einen Impuls?
 Sie nennen Ihr Thema. Wir geben Ihnen den Impuls. Ganz kurz und schmerzlos.

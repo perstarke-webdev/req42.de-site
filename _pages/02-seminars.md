@@ -3,13 +3,13 @@ title: Unsere Seminare und Workshops
 layout: splash
 permalink: /kurse
 header:
-    overlay_image: /images/splash/webdev.jpg
+    overlay_image: /images/headers/seminars_header.jpeg
     caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
     overlay_filter: rgba(0, 0, 0, 0.6)
 
 masteringagile:
 - title: "Mastering Agile Requirements"
-  excerpt: "![](images/seminars/masteringagile.png)
+  excerpt: "![](images/seminars/masteringagile.png)<br>
   **Unser Flagship-Workshop!** <br> Lernen Sie, wie man in agilen Projekten Just-in-Time Anforderungen spezifiziert und in kurzen Zeiträumen maximalen Business Value schafft. In 3 Tagen!
 <br><br>
 Unterrichtet von Referenten mit Jahrzehnten Erfahrung in Requirements-Analyse und Agilität.
@@ -26,11 +26,10 @@ Wir haben viel Spielraum eingeplant, um viele Übungen zu machen, auf Ihre pers�
   btn_label: "Zum Inhalt"
   btn_class: btn--info
   
-  
-ireb:
+req:
 - title: "Requirements-Grundlagen"
   excerpt: "**(Powerkurs für den IREB Foundation Level)** <br><br>
-  ![](images/seminars/req.png)
+  ![](images/seminars/req.png) <br>
   Eine **kompakte Auffrischung** von Analyseskills – ideal für die Vorbereitung zur Prüfung des IREB Foundation Levels (CPRE-Zertifikat), welches Voraussetzung für alle Advanced Level Zertifikate ist.
 <br> <br>
 Lernen Sie das kleine 1 * 1 des Requirements-Engineerings und erwerben Sie durch die Multiple Choice Prüfung den Titel eines „Certified Professional for Requirements Engineering“
@@ -38,8 +37,11 @@ Lernen Sie das kleine 1 * 1 des Requirements-Engineerings und erwerben Sie durch
   url: "/requirements-grundlagen"
   btn_label: "Zum Inhalt"
   btn_class: btn--info
+
+
+reagile: 
 - title: " RE@AGILE (IREB Advanced Level)"
-  excerpt: "![](images/seminars/reagile.png)
+  excerpt: "![](images/seminars/reagile.png) <br>
   In drei Tagen zeigen wir Ihnen, wie Anforderungen in der agilen Welt gemeistert werden können.
 <br><br>
 Der Advanced-Level Lehrplan des IREB, den wir initiiert und maßgeblich mitgestaltet haben, deckt alle Bereiche modernen Requirements-Engineerings ab. Sie lernen, wie extensive Kommunikation und Kooperation wesentlich Aufwände beim Finden und Spezifizieren von Anforderungen reduzieren kann – und Ihnen rasch zu Produkterfolgen verhilft.
@@ -49,18 +51,19 @@ Der Advanced-Level Lehrplan des IREB, den wir initiiert und maßgeblich mitgesta
   btn_class: btn--info
 ---
 
-<div class="seminar_heading" markdown="1">
+<h1 class="sem_left"> Seminar zu req42: </h1>
 
-# Seminar zu req42:
+{% include feature_row id="masteringagile" type="right" %}
+
+<h1 class="sem_right"> IREB-Zertifizierungen: </h1>
+
+{% include feature_row id="req" type="left" %}
+{% include feature_row id="reagile" type="left" %}
+
+<h1 class="sem"> Weitere Seminarthemen: </h1>
+
+<div style="text-align: center" markdown="1">
+
+**Siehe [arc42](https://www.arc42.de/) und [agile-experts](https://agile-experts.ch/)**
 
 </div>
-
-{% include feature_row id="masteringagile" type="center" %}
-
-<div class="seminar_heading" markdown="1">
-
-# IREB-Zertifizierungen:
-
-</div>
-
-{% include feature_row id="ireb"%}

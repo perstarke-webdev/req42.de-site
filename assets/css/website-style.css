@@ -46,8 +46,20 @@ div.coaching_box {
     background-color: rgba(0,0,0, 0.05);
 }
 
-div.seminar_heading {
-    text-align: center;
+h1.sem_left {
+    font-size: 200%;
+    float: left;
     color: blue;
-    font-size: 120%;
+}
+
+h1.sem_right {
+    font-size: 200%;
+    float: right;
+    color: blue
+}
+
+h1.sem {
+    font-size: 200%;
+    text-align: center;
+    color: blue
 }

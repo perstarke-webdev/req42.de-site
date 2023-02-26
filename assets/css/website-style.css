@@ -45,3 +45,9 @@ div.coaching_box {
     border: 5px solid CornflowerBlue;
     background-color: rgba(0,0,0, 0.05);
 }
+
+div.seminar_heading {
+    text-align: center;
+    color: blue;
+    font-size: 120%;
+}

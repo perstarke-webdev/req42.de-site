@@ -1,11 +1,15 @@
 ---
 title: Unsere Seminare und Workshops
-layout: splash
+layout: single
 permalink: /kurse
+sidebar:
+  nav: "seminars"
+classes: wide
 header:
     overlay_image: /images/headers/seminars_header.jpeg
     caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
     overlay_filter: rgba(0, 0, 0, 0.6)
+
 
 masteringagile:
 - title: "Mastering Agile Requirements"

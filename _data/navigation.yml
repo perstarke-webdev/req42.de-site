@@ -6,7 +6,17 @@ main:
     url: /req42-im-ueberblick
   - title: "Seminare"
     url: /kurse
-    sublinks:
+  - title: "Impuls-Coaching"
+    url: /coaching
+  - title: "Blog"
+    url: /blog
+  - title: "Über uns"
+    url: /ueber-uns
+
+
+seminars:
+  - title: Seminare
+    children:
       - title: "Mastering Agile Requirements"
         url: /masteringagile
       - title: "Requirements Grundlagen"
@@ -17,11 +27,5 @@ main:
         url: /ireb-zertifizierungen
       - title: "Geschäftsbedingungen"
         url: /geschaeftsbedingungen
-  - title: "Impuls-Coaching"
-    url: /coaching
-  - title: "Blog"
-    url: /blog
-  - title: "Über uns"
-    url: /ueber-uns
 
 

@@ -15,7 +15,7 @@ main:
 
 
 seminars:
-  - title: Seminare
+  - title: Seminare & Workshops
     children:
       - title: "Mastering Agile Requirements"
         url: /masteringagile

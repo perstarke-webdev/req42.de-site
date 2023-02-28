@@ -1,13 +1,17 @@
 /* special styles for Per Starke Web-Dev website */
 
 /* a big separating dashed line */
-
 hr.big-sep {
-    border-top: 5px dashed grey
+    border-top: 5px dashed grey;
+}
+
+/* a semi-big separating blue solid line */
+hr.blue-sep {
+    border-top: 3px solid CornflowerBlue;
 }
 
 /* For making the framework-text not go to the full edge of the screen */
-div.framework {
+div.splash_text {
     margin-left: 50px;
     margin-right: 50px;
 }
@@ -21,6 +25,14 @@ div.coaching_box {
     padding-right: 15px;
     border: 5px solid CornflowerBlue;
     background-color: rgba(0,0,0, 0.05);
+}
+
+/* A bright blue background box (for feature row content) */
+div.blue_box{
+    background-color: CornflowerBlue;
+    padding-left: 10px;
+    padding-top: 10px;
+    border-radius: 8px;
 }
 
 /* The big blue seminars-headings */

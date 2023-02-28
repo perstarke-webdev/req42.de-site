@@ -7,7 +7,7 @@ header:
     overlay_filter: rgba(0, 0, 0, 0.6)
 ---
 
-<div class="framework" markdown="1"> 
+<div class="splash_text" markdown="1"> 
 
 ## Das req42-Framework
 req42 ist alles, was Sie zum erfolgreichen Umgang mit Wünschen und Anforderungen in einer agilen Organisation brauchen. Wir nennen die Rolle, die für gutes Requirements Engineering zuständig ist, „Product Owner“ – und folgen damit dem Vorschlag von Scrum. <small> (Sie können in Ihrem Umfeld natürlich andere Bezeichnungen für diese Rolle etablieren, wie z.B. Business Analyst, Requirements Engineer, Product Manager, Solution Manager). Wir bleiben der Einfachheit halber bei Product Owner. </small>

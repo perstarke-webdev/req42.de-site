@@ -58,3 +58,20 @@ h1.sem {
     text-align: center;
     color: blue
 }
+
+/* Two blue boxes next to each other for ireb, with responsive design */
+div.grid-container {
+  display: grid;
+  grid-row-gap: 10px;
+  grid-column-gap: 10px;
+}
+
+@media (min-width: 800px) {
+  div.grid-container { grid-template-columns: repeat(2, 1fr); }
+}
+
+div.box {
+  background-color: CornflowerBlue;
+  margin: 20px;
+  padding: 20px;
+}

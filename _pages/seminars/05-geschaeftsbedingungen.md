@@ -5,6 +5,7 @@ permalink: /geschaeftsbedingungen
 header:
     overlay_image: images/headers/geschaeftsbedingungen.jpg
     overlay_filter: rgba(0, 0, 0, 0.6)
+    caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 ---
 <div class="splash_text" markdown="1"> 
 

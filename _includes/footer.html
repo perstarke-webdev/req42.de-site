@@ -1,29 +1,20 @@
 <div class="page__footer-follow">
   <ul class="social-icons">
-
-    {% if site.author.github %}
-      <li><a href="https://github.com/{{ site.author.github }}"
-             rel="noopener noreferrer nofollow"
-            target="_blank"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
-    {% endif %}
-
-    <li><a href="https://www.youtube.com/channel/UCG2Ndo4IEH8Fa0oIv2FBRMA"
-           rel="noopener noreferrer nofollow"
-           target="_blank"><i class="fab fa-fw fa-youtube" aria-hidden="true"></i>
-        YouTube</a></li>
-
-    <li><a href="https://www.instagram.com/per.starke/"
-           rel="noopener noreferrer nofollow"
-           target="_blank"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i> Instagram</a></li>
-
     <li><a href="{{ '/imprint' | absolute_url }}"
            rel="noopener noreferrer nofollow"
-           target="_blank"><i class="fas fa-fw fa-gavel" style="color:Tomato" aria-hidden="true"></i> Impressum & Datenschutz</a></li>
+           target="_blank"><i class="fas fa-fw fa-gavel" style="color:Tomato" aria-hidden="true"></i> Impressum </a></li>
+    <li><a href="{{ '/privacy' | absolute_url }}"
+           rel="noopener noreferrer nofollow"
+           target="_blank"><i class="fas fa-solid fa-binoculars" style="color:Tomato" aria-hidden="true"></i> Datenschutz </a></li>
   </ul>
 </div>
 
-<div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} Per Starke. Powered by
-  <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>,
+<div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }}
+  <a href="https://b-agile.de/" rel="noopener noreferrer nofollow" target="_blank"> b-agile </a> &
+  <a href="https://agile-experts.ch/" rel="noopener noreferrer nofollow" target="_blank"> agile-experts</a>. Powered by
+  <a href="https://jekyllrb.com" rel="noopener noreferrer nofollow" target="_blank">Jekyll</a> &amp;
+  <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="noopener noreferrer nofollow" target="_blank">Minimal Mistakes</a>,
+  created by <a href="https://perstarke-webdev.github.io/" rel="noopener noreferrer nofollow" target="_blank">Per Starke Web Development</a>
   generated {{ site.time | date: '%d. %b. %y' }}
 
 </div>

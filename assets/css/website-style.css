@@ -35,6 +35,23 @@ div.blue_box{
     border-radius: 8px;
 }
 
+/* A grey background box (for feature row content) */
+div.grey_box{
+    color: white;
+    background-color: rgb(100, 100, 100);
+    padding-left: 10px;
+    padding-top: 10px;
+    border-radius: 8px;
+}
+
+/* A light grey background box (for feature row content) */
+div.light_grey_box{
+    background-color: rgb(200, 200, 200);
+    padding-left: 10px;
+    padding-top: 10px;
+    border-radius: 8px;
+}
+
 /* The big blue seminars-headings */
 h1.sem {
     font-size: 200%;

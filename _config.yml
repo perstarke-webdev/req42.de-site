@@ -167,3 +167,14 @@ defaults:
     values:
       layout: single
       author_profile: false
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: "article"
+      author_profile: true
+      read_time: false
+      comments: false
+      share: true
+      related: true

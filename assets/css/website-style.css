@@ -100,3 +100,18 @@ div.smaller {
 h1.no-break {
   white-space: nowrap;
 }
+
+/* Post title */
+h1.post-title {
+  text-align: center;
+  text-decoration: underline;
+}
+
+span.post-title {
+  background-color: rgba(0, 0, 255, 0.15);
+  border: 2px solid rgb(210, 210, 210);
+  border-radius: 5px;
+  padding: 5px;
+  padding-left: 8px;
+  padding-right: 8px;
+}

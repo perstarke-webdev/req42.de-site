@@ -9,6 +9,8 @@ header:
 excerpt: "**Individualbetreuung für Ihre Projekte**"
 ---
 
+<div class="splash_text" markdown="1"> 
+
 # Spend Days – Save Years
 
 Verbringen Sie mit einem von uns 1 – 3 Tage und sparen Sie sich Jahre!
@@ -81,3 +83,5 @@ Sammeln Sie in Ihrem Unternehmen die Herausforderungen. Ein kurzes Brainstorming
 
 ## Brauchen Sie einen Impuls?
 Sie nennen Ihr Thema. Wir geben Ihnen den Impuls. Ganz kurz und schmerzlos.
+
+</div>

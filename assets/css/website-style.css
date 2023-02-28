@@ -55,23 +55,48 @@ div.light_grey_box{
 /* The big blue seminars-headings */
 h1.sem {
     font-size: 200%;
-    text-align: center;
     color: blue
 }
 
-/* Two blue boxes next to each other for ireb, with responsive design */
+/* Two boxes next to each other for ireb, with responsive design */
 div.grid-container {
   display: grid;
   grid-row-gap: 10px;
   grid-column-gap: 10px;
 }
 
+div.flex-start {
+  align-items: flex-start;
+}
+
 @media (min-width: 800px) {
-  div.grid-container { grid-template-columns: repeat(2, 1fr); }
+  div.small-container { grid-template-columns: repeat(2, 1fr); }
+}
+
+@media (min-width: 1000px) {
+  div.wide-container { grid-template-columns: repeat(2, 1fr); }
+}
+
+.light_blue {
+    background-color: CornflowerBlue
+}
+
+.light_grey {
+    background-color: rgb(220, 220, 220)
 }
 
 div.box {
-  background-color: CornflowerBlue;
   margin: 20px;
   padding: 20px;
+}
+
+/* Smaller text, for seminars page */
+
+div.smaller {
+  font-size: 85%;
+}
+
+/* No line break, for seminars page */
+h1.no-break {
+  white-space: nowrap;
 }

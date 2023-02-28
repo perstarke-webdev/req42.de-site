@@ -21,8 +21,8 @@ Gemäß den Regularien des IREB e.V. werden die Zertifizierungsprüfungen von un
 Wir arbeiten seit vielen Jahren erfolgreich mit 
 [Future Network Cert](http://www.future-network-cert.at/de/future-network-cert/index.html) in diesem Bereich zusammen.
 
-<div class="grid-container" markdown="1">
-<div class="box" markdown="1">
+<div class="grid-container small-container" markdown="1">
+<div class="box light_blue" markdown="1">
 
 ## Kosten für die Foundation Level Prüfung:
 (Multiple Choice Test, 75 Minuten, ca. 45 Fragen)
@@ -34,7 +34,7 @@ Sie erhalten Ihr Zertifikat nach Eingang der Zahlung zugestellt.
 
 </div>
 
-<div class="box" markdown="1">
+<div class="box light_blue" markdown="1">
 
 ## Kosten für Advanced Level Prüfungen:
 (Teil 1: Multiple Choice Test, Teil 2: Hausarbeit)

@@ -51,14 +51,14 @@ Der Advanced-Level Lehrplan des IREB, den wir initiiert und maßgeblich mitgesta
   btn_class: btn--info
 ---
 
-<h1 class="sem_left"> Seminar zu req42: </h1>
+<h1 class="sem"> Seminar zu req42: </h1>
 
-{% include feature_row id="masteringagile" type="right" %}
+{% include feature_row id="masteringagile" type="center" %}
 
-<h1 class="sem_right"> IREB-Zertifizierungen: </h1>
+<h1 class="sem"> IREB-Zertifizierungen: </h1>
 
-{% include feature_row id="req" type="left" %}
-{% include feature_row id="reagile" type="left" %}
+{% include feature_row id="req" type="center" %}
+{% include feature_row id="reagile" type="center" %}
 
 <h1 class="sem"> Weitere Seminarthemen: </h1>
 

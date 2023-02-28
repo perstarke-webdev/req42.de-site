@@ -1,41 +1,18 @@
 /* special styles for Per Starke Web-Dev website */
 
-
-/* define colors */
-:root {
-  --lightgrey-background: rgba(0, 0, 0, 0.15);
-  --darker-lightgrey-background: rgba(0, 0, 0, 0.8);
-}
-
-
-div.references_bright{
-    background-color: var(--lightgrey-background);
-    border-radius: 10px;
-    padding-left: 10px;
-    padding-right: 10px;
-}
-
-div.references_dark{
-    background-color: var(--darker-lightgrey-background);
-    color: rgba(220, 220, 220);
-    border-radius: 10px;
-    padding-left: 10px;
-    padding-right: 10px;
-}
+/* a big separating dashed line */
 
 hr.big-sep {
     border-top: 5px dashed grey
 }
 
-small.price {
-    color: grey
-}
-
+/* For making the framework-text not go to the full edge of the screen */
 div.framework {
     margin-left: 50px;
     margin-right: 50px;
 }
 
+/* A box to put some coaching content in */
 div.coaching_box {
     font-size: 80%;
     margin-left: 40px;
@@ -46,18 +23,7 @@ div.coaching_box {
     background-color: rgba(0,0,0, 0.05);
 }
 
-h1.sem_left {
-    font-size: 200%;
-    float: left;
-    color: blue;
-}
-
-h1.sem_right {
-    font-size: 200%;
-    float: right;
-    color: blue
-}
-
+/* The big blue seminars-headings */
 h1.sem {
     font-size: 200%;
     text-align: center;

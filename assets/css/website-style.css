@@ -131,3 +131,15 @@ img.max500 {
     width:100%;
     max-width:500px;
 }
+
+/* Headings with bold/not bold parts */
+
+.bold-header {
+    font-weight: bold;
+    display: inline;
+}
+
+.non-bold-header {
+    font-weight: normal;
+    display: inline;
+}

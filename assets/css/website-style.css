@@ -122,6 +122,11 @@ img.max800 {
     max-width:800px;
 }
 
+img.max600 {
+    width:100%;
+    max-width:600px;
+}
+
 img.max500 {
     width:100%;
     max-width:500px;

@@ -115,3 +115,14 @@ span.post-title {
   padding-left: 8px;
   padding-right: 8px;
 }
+
+/* Max width for image */
+img.max800 {
+    width:100%;
+    max-width:800px;
+}
+
+img.max500 {
+    width:100%;
+    max-width:500px;
+}

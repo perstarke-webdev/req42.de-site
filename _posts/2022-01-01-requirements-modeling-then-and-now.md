@@ -1,7 +1,7 @@
 ---
 name: "Requirements Modeling - Then and Now"
 author: Peter Hruschka
-tags: Requirements-Modeling
+tag: Requirements Modeling
 ---
 
 ## A little bit of history

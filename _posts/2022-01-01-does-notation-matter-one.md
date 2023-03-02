@@ -22,14 +22,14 @@ In this blog I want to examine whether the way of expressing requirements, i.e. 
 Let us contrast high level requirements for a hypothetical children swimming league, that wants to automate its manual processes by creating an IT-system nicknamed AQUARIUS. A use-case diagram could look like this:
 
 <figure>
-  <img class="max800" src="images/blog/doesNotationMatter.png"/>
+  <img class="max800" src="/images/blog/doesNotationMatter.png"/>
   <figcaption>Figure 1: The use cases of AQUARIUS</figcaption>
 </figure>
 
 Now, is it really necessary to use that old fashioned graphic notation, invented in 1992 by Ivar Jacobson – at a time when many of today’s developers were not yet born or in their infancy? Would not a simple list of functions also do the job. Look at the following write-up:
 
 <figure>
-  <img class="max500" src="images/blog/doesNotationMatter2.png"/>
+  <img class="max500" src="/images/blog/doesNotationMatter2.png"/>
   <figcaption>Figure 2: A list of AQUARIUS functionality</figcaption>
 </figure>
 
@@ -38,7 +38,7 @@ We have chosen slightly different names for the functions (e.g. Update Figure Ca
 Yet another alternative would be to start creating a story map. In the following figure we just give the overview of the epics and features (since they are too big to be considered as stories yet).
 
 <figure>
-  <img src="images/blog/doesNotationMatter3.png"/>
+  <img src="/images/blog/doesNotationMatter3.png"/>
   <figcaption>Figure 3: The beginning of an AQUARIUS story map</figcaption>
 </figure>
 

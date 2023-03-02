@@ -9,7 +9,7 @@ excerpt: 'Sicherlich kennen Sie die weißen Linien am Tennisplatz rund um das Sp
 Sicherlich kennen Sie die weißen Linien am Tennisplatz rund um das Spielfeld. Sie legen fest, ob ein Ball „in“ oder „out“ ist. Das sollten Sie auch für Ihr Projekt oder Ihre Produktentwicklung wissen, ob ein Thema „in Scope“ oder „out of Scope“ ist. Beginnen wir mit zwei einfachen Definitionen: Scope ist der Bereich, in dem Sie als Product Owner freie Entscheidungen treffen dürfen (vgl. Abb. 1). Im Kontext liegen Nutzergruppen, Nachbarabteilungen oder Nachbarsysteme. Änderungen an Schnittstellen zu diesen können Sie meist nicht alleine entscheiden, sondern müssen sie mit den dafür Zuständigen verhandeln. Dinge im Kontext liegen also außerhalb Ihres direkten Einflussbereiches.
 
 <figure>
-  <img class="max800" src="images/blog/Abb.-3-1.png"/>
+  <img class="max800" src="/images/blog/Abb.-3-1.png"/>
   <figcaption>Abb. 1: Scope und Kontext</figcaption>
 </figure>
 
@@ -18,7 +18,7 @@ Produktscope und Projektscope
 Wenn man von Produkt oder System spricht, ist meist ein IT-Produkt oder ein IT-System gemeint. Sollte Ihre Aufgaben also darin bestehen, ein (einziges) neues IT-System zu schaffen, so sind Produktscope und Projektscope identisch. In der Praxis betreffen Projekte manchmal auch mehrere vorhandene IT-Systeme. Möglicherweise müssen Sie ein System neu entwickeln oder kräftig modifizieren, und im Rahmen dessen auch notwendige Anpassungen anderer IT-Systeme gleich mit erledigen (siehe Abb. 2).
 
 <figure>
-  <img class="max800" src="images/blog/Abb.-3-2.png"/>
+  <img class="max800" src="/images/blog/Abb.-3-2.png"/>
   <figcaption>Abb. 2: Projektscope vs. Produktscope</figcaption>
 </figure>
 
@@ -30,7 +30,7 @@ Nutzen Sie in einer für die Scopefestlegung Ihres Projektes eine visuelle Gesam
 Zur Festlegung der Grenze zwischen Scope und Kontext reicht anfangs die Betrachtung der ein- und ausgehenden Daten Ihres Systems. Die klassische Darstellungsweise dafür ist ein sogenanntes „fachliches Kontextdiagramm“, [1], wie Sie es als Beispiel für einen Bordcomputer eines PKWs in Abbildung 3 sehen. Das System soll den Fahrer mit typischen Informationen wie Durchschnittsgeschwindigkeit, Treibstoffverbrauch, Außentemperatur, etc. versorgen, wie auch Navigation ermöglichen, einen Tempomaten zur Verfügung stellen, Wartungsintervalle überwachen und den Fahrer über Radiosender und Telefonanrufe informieren.
 
 <figure>
-  <img class="max800" src="images/blog/Abb.-3-3.png"/>
+  <img class="max800" src="/images/blog/Abb.-3-3.png"/>
   <figcaption>Abb. 3: Kontextdiagramm mit Ein- und Ausgaben des Systems</figcaption>
 </figure>
 
@@ -40,7 +40,7 @@ Falls Sie übrigens Diagramme nicht mögen, so schlägt [1] eine ganze Menge an 
 Falls Sie auf die grafische Variante stehen: Die UML bietet Ihnen viele Möglichkeiten, Schnittstellen genauer festzulegen. Abb. 5 zeigt zu obigem Beispiel jetzt die Verwendung von Ball- und Socket-Notation, bzw. die Einführung von Ports.
 
 <figure>
-  <img class="max600" src="images/blog/Abb.-3-4.png"/>
+  <img class="max600" src="/images/blog/Abb.-3-4.png"/>
   <figcaption>Abb. 4: Notation für Schnittstellendetails</figcaption>
 </figure>
 
@@ -56,7 +56,7 @@ Bisher haben wir eher über die „Mechanik“ der Festlegung der Scope-Abgrenzu
 Gründliche Requirements-Methoden unterscheiden zwischen Business-Scope und Produktscope: Der Business-Scope ist der Bereich Ihres Unternehmens oder Organisation, in dem Sie im Zuge Ihrer Software- oder Systementwicklung Entscheidungen treffen oder vorschlagen dürfen, also beispielsweise Ihr Fachbereich oder Ihre Abteilung. Normalerweise ist der Business-Scope um einiges größer als der Produktscope, weil Sie vielleicht nicht alles, was in Ihren Entscheidungsbereich fällt, auch automatisieren wollen. Sie können also in Zusammenarbeit zwischen Product Owner und Entwicklungsteam festlegen, welche Teile von Geschäftsprozessen automatisiert und welche Schritte vielleicht noch längere Zeit manuell durchgeführt werden sollen. Für erfahrene User Story-Experten: Das „N“ von INVEST steht für „negotiable“. Sie sollten also zunächst Ihren Business Scope kennen und dann verhandeln, welche Teile Ihrer Geschäftsprozesse früher oder später in den Product Scope kommen.
 
 <figure>
-  <img class="max800" src="images/blog/Abb.-3-5.png"/>
+  <img class="max800" src="/images/blog/Abb.-3-5.png"/>
   <figcaption>Abb. 5: Business- und Produktscope</figcaption>
 </figure>
 

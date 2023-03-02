@@ -13,7 +13,7 @@ header:
 <center>
 {% for tag in sorted_tags %}
 {% capture tag_name %}{{ tag | first }}{% endcapture %}
-<a class="hov" href="{{site.baseurl}}/blog/#{{tag_name|slugize}}">{{tag_name}}</a>
+<a class="hov" href="{{site.baseurl}}/blog#{{tag_name|slugize}}">{{tag_name}}</a>
 {% endfor %}
 </center>
 

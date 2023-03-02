@@ -145,5 +145,6 @@ img.max500 {
 }
 
 p.smaller {
-    line-height: 50%;
+    line-height: 10%;
+    display:inline-block;
 }

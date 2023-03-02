@@ -55,7 +55,7 @@ The same is true for graphical models: A model is just there to discuss an issue
 
 However, you should not be sloppy or misleading on purpose: If you draw an activity diagram, the sequence of steps should match reality. And if you sketch a domain-entity-model, the names should conform to the business terms and the lines should represent relationships of the real world that you want to be implemented in your product.
 
-This trend towards more “usefulness” instead of precision has triggered us to call these models “supporting models” in req42´s “universe of the product owner”. They are considered to support user-centric natural language statements, not to replace them.
+This trend towards more “usefulness” instead of precision has triggered us to call these models “supporting models” in req42´s [“universe of the product owner”](/universum-des-product-owners/). They are considered to support user-centric natural language statements, not to replace them.
 
 The following sections summarize some suggestions of req42 on how to use models today.
 

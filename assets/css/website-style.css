@@ -133,7 +133,6 @@ img.max500 {
 }
 
 /* Headings with bold/not bold parts */
-
 .bold-header {
     font-weight: bold;
     display: inline;
@@ -147,4 +146,33 @@ img.max500 {
 p.smaller {
     line-height: 10%;
     display:inline-block;
+}
+
+/* Hover and style for tags */
+a.hov:hover {
+    transform: scale(1.15);
+    text-decoration: none!important;
+    MidnightBlue
+}
+
+a.hov {
+    background-color: SkyBlue;
+    color: MidnightBlue;
+    padding: 5px 10px;
+    border-radius: 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 3px;
+    margin-right: 8px;
+    margin-bottom: 3px
+}
+
+a.hov:link{color:MidnightBlue}
+a.hov:active{color:MidnightBlue}
+a.hov:visited{color:MidnightBlue}
+
+/* hr for article tag separation line */
+hr.art-sep {
+    border-top: 2px solid grey
 }

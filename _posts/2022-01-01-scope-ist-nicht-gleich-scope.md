@@ -2,6 +2,7 @@
 name: "Scope ist nicht gleich Scope"
 author: Peter Hruschka
 tag: Agile Ergebnisse
+excerpt: 'Sicherlich kennen Sie die weißen Linien am Tennisplatz rund um das Spielfeld. Sie legen fest, ob ein Ball „in“ oder „out“ ist. Das sollten Sie auch für Ihr Projekt oder Ihre Produktentwicklung wissen, ob ein Thema „in Scope“ oder „out of Scope“ ist. Beginnen wir mit zwei einfachen Definitionen: Scope ist der Bereich, in dem Sie als Product Owner freie Entscheidungen treffen dürfen. Im Kontext liegen Nutzergruppen, Nachbarabteilungen oder Nachbarsysteme. Änderungen an Schnittstellen zu diesen können Sie meist nicht alleine entscheiden, sondern müssen sie mit den dafür Zuständigen verhandeln. Dinge im Kontext liegen also außerhalb Ihres direkten Einflussbereiches.'
 ---
 ## Scope und Kontext
 

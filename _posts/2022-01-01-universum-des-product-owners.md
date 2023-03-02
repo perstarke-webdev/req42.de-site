@@ -4,6 +4,7 @@ author: Peter Hruschka
 tags:
   - Agile Ergebnisse
   - Product Owner
+excerpt: 'Sehr oft wird (vor allem in Scrum-lastiger Literatur) die Arbeit des Product Owners mit der Pflege des Product Backlogs gleichgesetzt. req42 geht deutlich darüber hinaus. <br> **Agiles Requirements Engineering ist viel mehr als nur das Product Backlog managen.**'
 ---
 <br>
 Sehr oft wird (vor allem in Scrum-lastiger Literatur) die Arbeit des Product Owners mit der Pflege des Product Backlogs gleichgesetzt. req42 geht deutlich darüber hinaus.

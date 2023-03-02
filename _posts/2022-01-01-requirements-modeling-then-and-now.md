@@ -2,6 +2,7 @@
 name: "Requirements Modeling - Then and Now"
 author: Peter Hruschka
 tag: Requirements Modeling
+excerpt: 'If you look back in the history of requirements engineering you will notice that in the 70s we mainly used natural language to express requirements. Informal sentences like “The system shall …” or “The system should …” were dominant.'
 ---
 
 ## A little bit of history

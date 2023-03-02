@@ -2,6 +2,7 @@
 name: "Does Notation Matter (Part 1)"
 author: Peter Hruschka
 tag: Agile Ergebnisse
+excerpt: "If you look back in the history of requirements methods, you can observe that the notations for capturing requirements have changed several times in the last 50 years."
 ---
 <br>
 If you look back in the history of requirements methods, you can observe that the notations for capturing requirements have changed several times in the last 50 years.

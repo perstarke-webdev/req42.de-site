@@ -3,16 +3,41 @@ title: Blog
 layout: splash
 permalink: /blog
 header:
-    overlay_image: /images/splash/webdev.jpg
+    overlay_image: /images/headers/blog_header.webp
     caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
     overlay_filter: rgba(0, 0, 0, 0.6)
-excerpt: "**Lorem Ipsum**"
 ---
 
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
+{% assign sorted_tags = site.tags | sort %}
+
+<center>
+{% for tag in sorted_tags %}
+{% capture tag_name %}{{ tag | first }}{% endcapture %}
+<a class="hov" href="{{site.baseurl}}/blog/#{{tag_name|slugize}}">{{tag_name}}</a>
+{% endfor %}
+</center>
+
+<hr class="art-sep">
+
+<div id="archives">
+  {% for tag in sorted_tags %}
+  <div class="archive-group">
+    {% capture tag_name %}{{ tag | first }}{% endcapture %}
+    <div id="#{{ tag_name | slugize }}"></div>
+    <h1 class="tag-head">{{ tag_name }}</h1>
+    <a name="{{ tag_name | slugize }}"></a>
+    {% assign posts = site.tags[tag_name] | sort %}
+    {% for post in posts %}
+    <article class="archive-item">
+      <h3>
+        <a href="{{ site.baseurl }}{{ post.url }}"
+           rel="noopener noreferrer nofollow"
+           target="_blank">{{post.name}}</a>
+      </h3>
+      <p>{{ post.excerpt | markdownify }}</p>
+      <hr>
+    </article>
+    {% endfor %}
+  </div>
   {% endfor %}
-</ul>
+</div>

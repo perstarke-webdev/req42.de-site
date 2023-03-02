@@ -11,12 +11,6 @@ layout: splash
 
 {% assign sorted_tags = page.tags | sort %}
 
-<style>
-  a.hov:hover {
-    transform: scale(1.15);
-  }
-</style>
-
 <br>
 
 <hr class="big-sep">
@@ -26,16 +20,10 @@ layout: splash
 
 <center>
 {% for tag in sorted_tags %}
-<a class="hov" style="background-color: SkyBlue;
-   color: MidnightBlue;
-   padding: 5px 10px;
-   border-radius: 15px;
-   text-align: center;
-   text-decoration: none;
-   display: inline-block;
-   margin-top: 3px;
-   margin-bottom: 3px"
-   href="{{site.baseurl}}/artikelNachTags/#{{tag|slugize}}">{{tag}}</a>
+<a class="hov"
+   href="{{site.baseurl}}/blog/#{{tag|slugize}}"
+   rel="noopener noreferrer nofollow"
+   target="_blank">{{tag}}</a>
 {% endfor %}
 </center>
 </div>

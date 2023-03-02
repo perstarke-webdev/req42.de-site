@@ -2,6 +2,7 @@
 name: "Does Notation Matter (Part 2)"
 author: Peter Hruschka
 tag: Agile Ergebnisse
+excerpt: "This is the continuation of the mini-series of blogs about different notations used to capture requirements. In the first part we have looked at notations for decomposing a system in the large and compared natural language with use case diagrams and story maps."
 ---
 <br>
 This is the continuation of the mini-series of blogs about different notations used to capture requirements. In the first part we have looked at notations for decomposing a system in the large and compared natural language with use case diagrams and story maps.

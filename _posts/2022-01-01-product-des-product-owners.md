@@ -2,6 +2,7 @@
 name: "Was ist das Product des Product Owners?"
 author: Peter Hruschka
 tag: Product Owner
+excerpt: 'Die Frage klingt zunächst trivial, aber trotzdem haben viele Product Owner ein Problem damit. Wir wollen mit den folgenden Zeilen ein wenig dazu beitragen, etwas mehr Klarheit in den Begriff „Product“ zu bringen.'
 ---
 <br>
 Die Frage klingt zunächst trivial, aber trotzdem haben viele Product Owner ein Problem damit. Wir wollen mit den folgenden Zeilen ein wenig dazu beitragen, etwas mehr Klarheit in den Begriff „Product“ zu bringen.

@@ -35,7 +35,7 @@ Wir hoffen, dass diese Metapher Sie davon abbringt, dass Sie all diese Artefakte
 *Da Sie als Product-Owner eine Mischung aus Manager und Business Analyst/Requirements Engineer sind, besteht Ihr Universum hauptsächlich aus roten und blauen Planeten.*
 
 <h2 class="non-bold-header">1 - Das </h2> <h2 class="bold-header"> Product Backlog: </h2>
-<p> </p>
+<hr class="mobile">
 
 Der Scrum Guide [1] definiert: *„Das Product Backlog ist eine geordnete Liste von allem, von dem bekannt ist, dass es im Produkt enthalten sein soll. Es dient die einzige Anforderungsquelle für alle Änderungen am Produkt. Der Product Owner ist für das Product Backlog, seine Inhalte, den Zugriff darauf und die Reihenfolge der Einträge verantwortlich.*
 
@@ -44,7 +44,7 @@ Der Scrum Guide [1] definiert: *„Das Product Backlog ist eine geordnete Liste 
 Sie sehen also: das Product Backlog ist wirklich wichtig für die erfolgreiche Arbeit als Product Owner. Aber bitte lesen Sie weiter. Ihr Job fängt vielleicht nicht mit dem Product Backlog an und hört sicherlich nicht mit dem Product Backlog auf.
 
 <h2 class="non-bold-header">2 - Das Ergebnis der Iterationen: </h2> <h2 class="bold-header"> Product Increments </h2>
-<p> </p>
+<hr class="mobile">
 
 Die Product Increments werden vom Entwicklungsteam erzeugt. Bei IT-Systemen sollten diese Inkremente „potentiell auslieferbare Teilsysteme“ mit allem Drum und Dran (Dokumentation, Release Notes, Installationsanweisungen, …) sein.
 
@@ -53,7 +53,7 @@ Aufgabe des Product Owners ist es, diese Zwischenergebnisse jeweils am Ende eine
 Falls nicht, müssen vielleicht neue Anforderungen in das Product Backlog eingefügt werden.
 
 <h2 class="non-bold-header">3 - </h2> <h2 class="bold-header"> Die managementorientierten Artefakte </h2>
-<p> </p>
+<hr class="mobile">
 
 Als Product Owner sind Sie nicht nur dafür verantwortlich, Ihr Entwicklungsteam kontinuierlich mit Requirements zu versorgen, sondern auch für die Zielausrichtung, die Planung, kontinuierliches Wert- und Risikomanagement und Priorisierung. Das alles natürlich unter optimaler Nutzung der Mittel („Assets“), die man Ihnen dafür zur Verfügung stellt.
 

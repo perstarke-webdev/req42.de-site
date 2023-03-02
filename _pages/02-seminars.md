@@ -13,7 +13,7 @@ header:
 {% include nav_list nav="seminars" %}
 </center>
 
-<div class="splash_text grid-container wide-container smaller flex-start" markdown="1">
+<div class="grid-container wide-container smaller flex-start" markdown="1">
 
 <div class="box light_grey" markdown="1">
 

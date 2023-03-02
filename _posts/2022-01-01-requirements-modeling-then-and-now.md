@@ -30,7 +30,7 @@ In parallel to the growth of agile requirements engineering more graphical notat
 
 The following picture summarizes my personal estimate about the use of textual or graphical notations over the last five decades.
 <figure>
-  <img src="{{site.url}}/images/blog/Malen-oder-Schreiben.jpeg"/>
+  <img src="images/blog/Malen-oder-Schreiben.jpeg"/>
   <figcaption>Dominant Requirements Style over 5 decades</figcaption>
 </figure>
 

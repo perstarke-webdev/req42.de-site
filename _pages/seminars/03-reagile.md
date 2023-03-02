@@ -90,7 +90,7 @@ evtl. verteile Projekte skaliert.
 
 # IREB Advanced Level Zertifizierung
 
-Dieser Kurs befähigt Sie, sich zum **IREB** Advanced Level Modul **„RE@Agile“** zu zertifizieren. Die [Prüfung]((/ireb-zertifizierungen)) 
+Dieser Kurs befähigt Sie, sich zum **IREB** Advanced Level Modul **„RE@Agile“** zu zertifizieren. Die [Prüfung](/ireb-zertifizierungen)
 kann direkt am Ende des Workshops – oder aber unabhängig davon abgelegt werden.
 
 Voraussetzung für die Prüfungsteilnahme ist das IREB CPRE-Zertifikat. 

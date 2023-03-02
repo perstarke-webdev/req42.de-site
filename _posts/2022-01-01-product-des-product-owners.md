@@ -9,7 +9,7 @@ Die Frage klingt zunächst trivial, aber trotzdem haben viele Product Owner ein 
 
 ### Der einfache Fall
 
-Wenn Sie als Product Owner zuständig sind, ein IT-Produkt zu entwickeln bzw. weiterzuentwickeln, dann ist die Antwort wohl einfach. Dieses IT-Produkt ist Ihr „Product“ und Sie werden genau dafür Ihren Product Backlog füllen. Dabei ist es egal, ob das eine neue App für Smart Devices ist, oder ob Sie ein komplexes Produkt :warning: **!!missing sentence ending!!** :warning:
+Wenn Sie als Product Owner zuständig sind, ein IT-Produkt zu entwickeln bzw. weiterzuentwickeln, dann ist die Antwort wohl einfach. Dieses IT-Produkt ist Ihr „Product“ und Sie werden genau dafür Ihren Product Backlog füllen. Dabei ist es egal, ob das eine neue App für Smart Devices ist,  oder ob Sie ein komplexes Produkt für die Vermarktung an den Mittelstand, an Behörden oder große Industriebetriebe entwickeln.
 
 Terminologisch schon etwas schwieriger ist es, wenn in Ihrer Welt das Wort „Produkt“ nicht vorkommt, weil Sie eine IT-Applikationen für die interne Anwendung im eigenen Unternehmen entwickeln und vielleicht eher von Ihrem „CRM-**System**“ sprechen, oder Ihrem „System zur Verwaltung freier Seminarräume“ sprechen. Ob Sie es nun „System“ oder „Produkt“ nennen: es ist Ihr „Product“.
 

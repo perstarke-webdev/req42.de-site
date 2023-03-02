@@ -32,6 +32,7 @@ Hier nur eines davon – das jeweilige Produktinkrement! Andere Artefakte des De
 Beachten Sie, dass man als Product-Owner also wesentlich mehr tun muss, als nur funktionale Anforderungen im Product-Backlog zu pflegen!
 
 ## Wichtige Artefakte für den Product-Owner
+![](images/framework/Überblick_2_V8_grün.webp)
 
 In unserem [Flagship-Workshop „Mastering Agile Requirements“](/masteringagile) und in unseren [Impuls-Coachings](/coaching) zeigen wir Ihnen zahllose *„Good Practices“*, pragmatische Tipps und Tricks zum Umgang mit den Kern-Artefakten. Sie lernen, als Product-Owner Produkte so zu entwickeln, dass sie von Ihren Kunden und Nutzern geliebt werden.
 

@@ -31,6 +31,7 @@ div.blue_box{
     padding-left: 10px;
     padding-top: 10px;
     border-radius: 8px;
+    padding-right: 10px;
 }
 
 /* A grey background box (for feature row content) */
@@ -40,6 +41,7 @@ div.grey_box{
     padding-left: 10px;
     padding-top: 10px;
     border-radius: 8px;
+    padding-right: 10px;
 }
 
 /* A light grey background box (for feature row content) */
@@ -48,6 +50,7 @@ div.light_grey_box{
     padding-left: 10px;
     padding-top: 10px;
     border-radius: 8px;
+    padding-right: 10px;
 }
 
 /* The big blue seminars-headings */
@@ -83,13 +86,18 @@ div.flex-start {
     background-color: rgb(220, 220, 220)
 }
 
+@media (max-width: 450px) {
+    .light_grey {
+        background-color: white;
+    }
+}
+
 div.box {
   margin: 20px;
   padding: 20px;
 }
 
 /* Smaller text, for seminars page */
-
 div.smaller {
   font-size: 85%;
 }

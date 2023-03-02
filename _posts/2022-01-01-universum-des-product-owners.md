@@ -1,7 +1,9 @@
 ---
 name: "Das Universum des Product Owners"
 author: Peter Hruschka
-tag: Agile Ergebnisse
+tags:
+  - Agile Ergebnisse
+  - Product Owner
 ---
 <br>
 Sehr oft wird (vor allem in Scrum-lastiger Literatur) die Arbeit des Product Owners mit der Pflege des Product Backlogs gleichgesetzt. req42 geht deutlich darüber hinaus.

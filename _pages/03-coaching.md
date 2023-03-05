@@ -64,7 +64,7 @@ Hier einige Beispiele von A bis Z für typische Fragestellungen und Herausforder
 Wenn Sie Ihre Herausforderungen noch nicht klar genug artikulieren können, 
 so hilft eine 'Untersuchung zur Lage der Nation'. Nach dem Vier-Augen-Prinzip untersuchen wir die Software-Entwicklung 
 in Ihrem Unternehmen in zwei Tagen und zeigen die Stellen auf, wo Sie am schnellsten erfolgreicher werden können. 
-Mehr dazu als Download. 
+[Mehr dazu als Download](https://b-agile.de/downloads/services/Lage-der-nation.pdf). 
 
 </div>
 

@@ -3,7 +3,7 @@ title: Allgemeine Geschäftsbedingungen für Seminare
 layout: splash
 permalink: /geschaeftsbedingungen
 header:
-    overlay_image: images/headers/geschaeftsbedingungen.jpg
+    overlay_image: images/headers/geschaeftsbedingungen.webp
     overlay_filter: rgba(0, 0, 0, 0.6)
     caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 ---

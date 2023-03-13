@@ -3,7 +3,7 @@ title: Mastering Agile Requirements
 layout: splash
 permalink: /masteringagile
 header:
-    overlay_image: /images/headers/masteringagile_header.jpeg
+    overlay_image: /images/headers/masteringagile_header.webp
     overlay_filter: rgba(0, 0, 0, 0.6)
 excerpt: "Ein 3-tägiger Workshop zur Einführung in das [agile Framework req42](/req42-im-ueberblick) vom agilen Duo Peter Hruschka und Markus Meuten"
 

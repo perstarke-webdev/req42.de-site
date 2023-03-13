@@ -3,7 +3,7 @@ title: Unsere Seminare und Workshops
 layout: splash
 permalink: /kurse
 header:
-    overlay_image: /images/headers/seminars_header.jpeg
+    overlay_image: /images/headers/seminars_header.webp
     caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
     overlay_filter: rgba(0, 0, 0, 0.6)
 

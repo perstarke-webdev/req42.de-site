@@ -16,7 +16,7 @@ Natürlich ist das Product Backlog das wichtigste Artefakt zum Managen von Anfor
 Um Ihnen als Product Owner die Gesamtheit der von Ihnen zu verwaltenden Dinge (neudeutsch: Artifacts) aufzuzeigen haben wir als Metapher das Universum gewählt, oder besser den Teil des Universums, der Sie als Product Owner betrifft. Im Zentrum Ihres Universums steht der Product Backlog als eines Ihrer wichtigsten Arbeitsinstrumente. Um dieses Zentrum herum kreisen jedoch viele andere Artefakte, die agiles Requirements Engineering erst erfolgreich machen (vgl. Abb. 1).
 
 <figure>
-  <img class="max800" src="/images/blog/PO-Universe.jpeg"/>
+  <img class="max800" src="/images/blog/PO-Universe.webp"/>
   <figcaption>Abb. 1: Das Universum des Product Owners</figcaption>
 </figure>
 

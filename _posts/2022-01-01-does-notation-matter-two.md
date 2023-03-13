@@ -23,14 +23,14 @@ Let us start with two different kinds of textual specifications (always concentr
 For those of you, who like to phrase all requirements as stories, let me rewrite the three statements as story cards (as refinement of the big story above):
 
 <figure>
-  <img class="max800" src="/images/blog/doesNotationMatter6.png"/>
+  <img class="max800" src="/images/blog/doesNotationMatter6.webp"/>
   <figcaption>Fig 1: Refined Story Cards</figcaption>
 </figure>
 
 If you are a child of the 80s you have probably learned to specify these process steps in form of a dataflow diagram, showing the key functions and their inputs and outputs, as well as stored data. Here is a way of specifying the above mentioned process:
 
 <figure>
-  <img class="max800" src="/images/blog/doesNotationMatter4.png"/>
+  <img class="max800" src="/images/blog/doesNotationMatter4.webp"/>
   <figcaption>Fig. 2: Enrolment as dataflow diagram</figcaption>
 </figure>
 
@@ -39,7 +39,7 @@ For those of you not familiar with the notation I have included a short legend. 
 If you were born a little bit later and got your education in the 90s, when UML was the dominant notation, you would probably draw the process as an activity diagram as shown below.
 
 <figure>
-  <img class="max800" src="/images/blog/doesNotationMatter5.png"/>
+  <img class="max800" src="/images/blog/doesNotationMatter5.webp"/>
   <figcaption>Fig. 3: Enrolment as activity diagram</figcaption>
 </figure>
 

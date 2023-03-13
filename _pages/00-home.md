@@ -3,7 +3,7 @@ title: req42
 layout: splash
 permalink: /
 header:
-  overlay_image: /images/headers/home_header.jpeg
+  overlay_image: /images/headers/home_header.webp
   overlay_filter: rgba(0, 0, 0, 0.6)
   actions:
   - label: "&#8594; English site"
@@ -21,7 +21,7 @@ feature_row:
   excerpt: "In unseren Seminaren bringen wir Ihnen als Product-Owner oder agile Requirements Engineers das notwendige Handwerkszeug bei. <br> <br> 
             Live oder online – vereinbaren Sie Termine mit uns!"
 - title: "<center> <small> Peter Hruschka & Markus Meuten </small></center>"
-  excerpt: "![](/images/home/peter_markus.png)<br> Als agiles Duo zeigen wir Ihnen bei öffentlichen Seminaren agiles Requirements Engineering aus verschiedenen Blickwinkeln."
+  excerpt: "![](/images/home/peter_markus.webp)<br> Als agiles Duo zeigen wir Ihnen bei öffentlichen Seminaren agiles Requirements Engineering aus verschiedenen Blickwinkeln."
 - title: "Coaching"
   url: "/coaching"
   btn_label: "Mehr dazu"

@@ -3,7 +3,7 @@ title: Impuls-Coaching
 layout: splash
 permalink: /coaching
 header:
-    overlay_image: /images/headers/coaching_header.jpeg
+    overlay_image: /images/headers/coaching_header.webp
     caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
     overlay_filter: rgba(0, 0, 0, 0.6)
 excerpt: "**Individualbetreuung für Ihre Projekte**"

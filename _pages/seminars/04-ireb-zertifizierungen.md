@@ -3,7 +3,7 @@ title: IREB Zertifizierungen
 layout: splash
 permalink: /ireb-zertifizierungen
 header:
-    overlay_image: /images/headers/ireb_header.jpeg
+    overlay_image: /images/headers/ireb_header.webp
     overlay_filter: rgba(0, 0, 0, 0.6)
     caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 ---

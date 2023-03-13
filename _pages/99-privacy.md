@@ -3,7 +3,7 @@ layout: single
 title: Datenschutz
 permalink: /privacy
 header:
-    overlay_image: /images/headers/privacy-274694-unsplash.jpg
+    overlay_image: /images/headers/privacy-274694-unsplash.webp
     overlay_filter: rgba(0, 0, 0, 0.6)
     caption: "Photo credit: [**Scott Webb**](https://unsplash.com/photos/yekGLpc3vro)"
 ---

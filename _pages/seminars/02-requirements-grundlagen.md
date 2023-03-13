@@ -3,7 +3,7 @@ title: Requirements-Grundlagen (Powerkurs)
 layout: splash
 permalink: /requirements-grundlagen
 header:
-    overlay_image: images/headers/req_grundlagen_header.jpeg
+    overlay_image: images/headers/req_grundlagen_header.webp
     overlay_filter: rgba(0, 0, 0, 0.6)
 excerpt: "Ein 2-tägiger Power-Workshop
 von Markus Meuten und Peter Hruschka

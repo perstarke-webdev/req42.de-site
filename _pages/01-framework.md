@@ -3,7 +3,7 @@ title: req42 im Überblick
 layout: splash
 permalink: /req42-im-ueberblick
 header:
-    overlay_image: /images/headers/framework_header.png
+    overlay_image: /images/headers/framework_header.webp
     overlay_filter: rgba(0, 0, 0, 0.6)
 ---
 
@@ -28,7 +28,7 @@ Denn:
 
 Die folgende Abbildung zeigt Ihnen das *„Universum des Product Owners“* von req42. Als *„Leitstern“* in der Mitte steht natürlich der Product Backlog als wichtigstes Artefakt, mit dem Sie sicherlich die meiste Zeit verbringen werden. Aber rundherum kreisen viele andere Artefakte, die Sie in Ihrer Rolle als Produkt-Owner aus Managementsicht oder aus Requirements-Sicht ernst nehmen sollten.
 
-![](/images/framework/universe.png)<br><br>
+![](/images/framework/universe.webp)<br><br>
 Die 
 <span style="color:blue"> blauen </span> 
 Himmelskörper sind die eher requirements-orientierten Ergebnisse, 
@@ -43,7 +43,7 @@ Planet stellt die Zwischenergebnisse Ihres Entwicklungsteams dar (die laufend ge
 
 Diese Ergebnisse, deren Aufbau, ihre Verwaltung und Pflege stehen im Mittelpunkt unserer Betrachtungen. Als didaktische Hilfsmittel haben wir aber auch die sechs Hauptaktivitäten eines Product Owners benannt, die im folgenden Bild dargestellt sind.
 
-![](/images/framework/fw-2.png)<br><br>
+![](/images/framework/fw-2.webp)<br><br>
 An den Doppelpfeilen zwischen den Tätigkeiten sehen Sie, dass Sie in der Rolle als Produkt Owner ständig mit all diesen Tätigkeiten befasst sind und beliebig zwischen den einzelnen Tätigkeiten wechseln können. Sie dienen nur der besseren Lehrbarkeit und Vermittelbarkeit.  
 
 req42 ist prozess-agnositisch. Es gibt keinen vorgeschriebenen Prozess, den Sie einhalten müssen. Wir empfehlen natürlich einen agilen Prozess, bei dem nur die Anforderungen detailliert ausgearbeitet werden, die demnächst für die Umsetzung als Produkt-Inkrement gebraucht werden.

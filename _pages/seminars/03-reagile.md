@@ -3,7 +3,7 @@ title: RE@Agile (IREB Advanced Level)
 layout: splash
 permalink: /reagile
 header:
-    overlay_image: images/headers/req_grundlagen_header.jpeg
+    overlay_image: images/headers/req_grundlagen_header.webp
     overlay_filter: rgba(0, 0, 0, 0.6)
 excerpt: "Ein 3-tägiger Workshop
 vom agilen Duo Peter Hruschka und Markus Meuten"

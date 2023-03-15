@@ -14,6 +14,21 @@ main:
     url: /ueber-uns
 
 
+main_en:
+  - title: "Home"
+    url: /en
+  - title: "The req42-framework"
+    url: /en/req42-at-a-glance
+  - title: "Seminars"
+    url: /en/seminars
+  - title: "Impulse Coaching"
+    url: /en/coaching
+  - title: "Blog"
+    url: /en/blog
+  - title: "About us"
+    url: /en/about-us
+
+
 seminars:
   - title: Seminare & Workshops
     children:

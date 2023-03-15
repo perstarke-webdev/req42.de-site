@@ -1,6 +1,6 @@
 ---
 title: req42
-layout: splash
+layout: splash_en
 permalink: /en
 header:
   overlay_image: /images/headers/home_header.webp

@@ -11,7 +11,7 @@ as preparation for the attainment of the certificate
 to the IREB “Certified Professional for Requirements Engineering“ (CPRE-FL)"
 
 one:
-- excerpt: "**This workshop covers the full scope of IREB's Foundation Level curriculum in a compact format."
+- excerpt: "**This workshop covers the full scope of IREB's Foundation Level curriculum in a compact format.**"
   image_path: images/seminars/req-grundlagen/ireb-long.png
   
 two:
@@ -63,6 +63,6 @@ Includes detailed training and exercise materials.
 * **Caution**: This course alone is NOT suitable to become a good Requirements Engineer or Business Analyst without prior knowledge.
   However, it is ideal in combination with our Advanced Course ["Mastering Agile Requirements"](/en/masteringagile). ([Ask us](mailto:info@req42.de) for our combination offers).
 
-As an alternative to this workshop, also use the book ["Business Analysis and Requirements Engineering"](https://www.amazon.de/Business-Analysis-Requirements-Engineering-nachhaltig/dp/3446455892/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=9JSCSL9B7V9R&keywords=Hruschka+Business+Analysis&qid=1636373432&qsid=262-5269499-5430531&sprefix=hruschka+business+analysis%2Caps%2C90&sr=8-1&sres=3446455892%2C3446438076%2C3945997178%2CB08GVCCY96%2CB00A9T7758%2C3030845958%2C3791033085%2CB00CJUNNNK%2C3945997119%2C3446443452%2C3868815740%2C3658003359%2C1867445328%2CB01MU31D8B%2C0471935530%2CB0110TL846&srpt=ABIS_BOOK/bagilede-21) by Dr. Peter Hruschka (Hanser-Verlag) or [his 13-hour video training](https://www.aschauerit.at/re35-videotraining-ba-re-nach-ireb/).
+As an alternative to this workshop, also use the book ["Business Analysis and Requirements Engineering"](https://www.amazon.de/Business-Analysis-Requirements-Engineering-nachhaltig/dp/3446455892/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=9JSCSL9B7V9R&keywords=Hruschka+Business+Analysis&qid=1636373432&qsid=262-5269499-5430531&sprefix=hruschka+business+analysis%2Caps%2C90&sr=8-1&sres=3446455892%2C3446438076%2C3945997178%2CB08GVCCY96%2CB00A9T7758%2C3030845958%2C3791033085%2CB00CJUNNNK%2C3945997119%2C3446443452%2C3868815740%2C3658003359%2C1867445328%2CB01MU31D8B%2C0471935530%2CB0110TL846&srpt=ABIS_BOOK/bagilede-21) by Dr. Peter Hruschka (Hanser-Publishers) or [his 13-hour video training](https://www.aschauerit.at/re35-videotraining-ba-re-nach-ireb/).
 
 </div>

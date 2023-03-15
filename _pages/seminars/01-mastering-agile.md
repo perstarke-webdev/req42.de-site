@@ -9,7 +9,7 @@ excerpt: "Ein 3-tägiger Workshop zur Einführung in das [agile Framework req42]
 
 blackbelt:
 - title: "Erwerben Sie von uns den schwarzen Gürtel im Agilen Requirements Engineering!"
-  excerpt: "Dieser Workshop geht in die Tiefe, wo SCRUM-Einführungen und Product Owner Kurse aufhören. Sie lernen das Handwerkszeug und jede Menge „Good Practices“ für erfolgreiche agile Projekte."
+  excerpt: "Dieser Workshop geht in die Tiefe, wo SCRUM-Einführungen und Product Owner Kurse aufhören. Sie lernen das Handwerkszeug und jede Menge *„Good Practices“* für erfolgreiche agile Projekte."
   image_path: images/seminars/masteringagile/blackbelt.jpeg
 ---
 <div class="splash_text" markdown="1"> 

@@ -132,6 +132,12 @@ span.post-title {
 }
 
 /* Max width for image */
+
+img.max900 {
+    width:100%;
+    max-width:900px;
+}
+
 img.max800 {
     width:100%;
     max-width:800px;

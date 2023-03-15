@@ -7,7 +7,7 @@ header:
   overlay_filter: rgba(0, 0, 0, 0.6)
   actions:
   - label: "&#8594; English site"
-    url: "http://req42.de/home"
+    url: "/en"
   - label: "Mehr zu req42"
     url: "/req42-im-ueberblick"
 excerpt: "Das Framework für agiles Requirements Management – <br>

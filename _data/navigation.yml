@@ -44,3 +44,18 @@ seminars:
         url: /geschaeftsbedingungen
 
 
+seminars_en:
+  - title: Seminars & workshops
+    children:
+      - title: "Mastering Agile Requirements"
+        url: /en/masteringagile
+      - title: "Requirements Basics"
+        url: /en/requirements-basics
+      - title: "RE@Agile"
+        url: /en/reagile
+      - title: "IREB Certifications"
+        url: /en/ireb-certifications
+      - title: "Terms of Business"
+        url: /en/erms-of-business
+
+

@@ -59,7 +59,7 @@ h1.sem {
     color: blue
 }
 
-/* Two boxes next to each other for ireb, with responsive design */
+/* Two boxes next to each other, with responsive design */
 div.grid-container {
   display: grid;
   grid-row-gap: 10px;

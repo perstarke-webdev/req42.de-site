@@ -49,7 +49,7 @@ a **compact refresher** on analysis skills - ideal for preparing for the IREB Fo
 <br> <br>
 Learn the small 1 * 1 of requirements engineering and earn the title of "Certified Professional for Requirements Engineering" through the multiple choice exam.
 
-<a href="/requirements-grundlagen" class="btn btn--info">To the content</a>
+<a href="/en/requirements-basics" class="btn btn--info">To the content</a>
 
 <h1 class="no-break"> RE@AGILE (IREB Advanced Level) </h1>
 
@@ -59,7 +59,7 @@ In three days we will show you how requirements can be mastered in the agile wor
 <br><br>
 The IREB Advanced Level curriculum, which we initiated and played a major role in shaping, covers all areas of modern requirements engineering. You will learn how extensive communication and cooperation can significantly reduce the effort required to find and specify requirements - and quickly help you achieve product success.
 
-<a href="/reagile" class="btn btn--info">To the content</a>
+<a href="/en/reagile" class="btn btn--info">To the content</a>
 
 </div>
 

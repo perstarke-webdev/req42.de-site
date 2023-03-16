@@ -51,7 +51,7 @@ possibly distributed projects.
   You will be able to assess the importance of quality requirements for product success and learn how to deal with qualities and constraints in an agile environment.
 
 * **Prioritize and plan**  
-Sie lernen Business Value Maximierung und Risikoreduzierung. Wie sortiert man den Backlog, um frühzeitig den größten Nutzen zu produzieren? Wie geht man mit Abhängigkeiten um? Sie lernen, wie man Aufwand und Nutzen abgleicht.
+  You will learn business value maximization and risk reduction. How to sort the backlog to produce the most value early? How to deal with dependencies? You will learn how to balance effort and benefits.
 
 * **The practical handling of quality requirements**.  
   You will deepen your basic knowledge of quality requirements and learn practical tips for dealing with them in a time-saving and targeted manner.
@@ -59,7 +59,7 @@ Sie lernen Business Value Maximierung und Risikoreduzierung. Wie sortiert man de
 * **Estimate and Plan**  
   You will learn agile estimation methods such as Planning Poker and Wall Estimation. You will be able to weigh costs and efforts against benefits.
 
-* **Strategies for product development**
+* **Strategies for product development**  
   You will learn how to generate rapid initial successes via MVPs (Minimum Viable Products) and MMPs (Minimum Marketable Products). How do you select the appropriate features for this? How do you ensure that development does not go in the wrong direction?
 
 * **Think big!**  

@@ -13,7 +13,7 @@ peter:
   image_path: images/about/PeterHruschka.webp
   excerpt: "For more than 40 years on the road as a missionary in *good software and systems engineering*.
   Partner of [Atlantic Systems Guild](https://systemsguild.eu/), Fellow of [Agile Experts](https://agile-experts.ch/),
-  Founder of [arc42](https://www.arc42.dorg/), the portal for software architects and founding member of [IREB](https://www.ireb.org/de).
+  Founder of [arc42](https://www.arc42.org/), the portal for software architects and founding member of [IREB](https://www.ireb.org/de).
   Author of many books and articles and co-author of two IREB scripts on requirements modeling and RE@Agile."
 
 markus:

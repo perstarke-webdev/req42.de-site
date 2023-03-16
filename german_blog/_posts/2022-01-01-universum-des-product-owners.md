@@ -39,7 +39,8 @@ Wir hoffen, dass diese Metapher Sie davon abbringt, dass Sie all diese Artefakte
 
 Der Scrum Guide [1] definiert: *„Das Product Backlog ist eine geordnete Liste von allem, von dem bekannt ist, dass es im Produkt enthalten sein soll. Es dient die einzige Anforderungsquelle für alle Änderungen am Produkt. Der Product Owner ist für das Product Backlog, seine Inhalte, den Zugriff darauf und die Reihenfolge der Einträge verantwortlich.*
 
-*Ein Product Backlog ist niemals vollständig. Während seiner ersten Entwicklungsschritte zeigt es die anfangs bekannten und am besten verstandenen Anforderungen auf. Das Product Backlog entwickelt sich mit dem Produkt und dessen Einsatz weiter. Es ist dynamisch; es passt sich konstant an, um für das Produkt klar herauszustellen, was es braucht, um seiner Aufgabe angemessen zu sein, im Wettbewerb zu bestehen und den erforderlichen Nutzen zu bieten.“* So lange ein Produkt existiert, existiert auch sein Product Backlog.
+*Ein Product Backlog ist niemals vollständig. Während seiner ersten Entwicklungsschritte zeigt es die anfangs bekannten und am besten verstandenen Anforderungen auf. Das Product Backlog entwickelt sich mit dem Produkt und dessen Einsatz weiter. Es ist dynamisch; es passt sich konstant an, um für das Produkt klar herauszustellen, was es braucht, um seiner Aufgabe angemessen zu sein, im Wettbewerb zu bestehen und den erforderlichen Nutzen zu bieten.“* <br> 
+So lange ein Produkt existiert, existiert auch sein Product Backlog.
 
 Sie sehen also: das Product Backlog ist wirklich wichtig für die erfolgreiche Arbeit als Product Owner. Aber bitte lesen Sie weiter. Ihr Job fängt vielleicht nicht mit dem Product Backlog an und hört sicherlich nicht mit dem Product Backlog auf.
 

@@ -9,12 +9,11 @@ header:
 ---
 <div class="splash_text" markdown="1"> 
 
-* Preise verstehen sich zuzüglich der gesetzlichen Mehrwertsteuer, gelten für einen Teilnehmer und beinhalten die Seminardurchführung, die ausführlichen Tagungsunterlagen, Mittagessen und Tagungsgetränke.  
-* Rechnungsbeträge sind zahlbar rein netto innerhalb von 14 Tagen nach Rechnungserhalt, Skonti werden nicht gewährt.  
-* Nur ein rechtzeitiger Zahlungseingang (gemäß Rechnung) berechtigt zur Teilnahme.  
-* Anmeldungen sind verbindlich. Sie erhalten von uns kurzfristig eine Anmeldebestätigung.  
-* Ein Rücktritt bis 10 Tage vor Veranstaltungsbeginn ist gegen eine Bearbeitungsgebühr von 50 EUR möglich. Für spätere Stornierungen werden 50% des Seminarpreises in Rechnung gestellt. Bei Nichterscheinen ist die Teilnahmegebühr in voller Höhe zu entrichten. Ein Ersatzteilnehmer kann selbstverständlich benannt werden. Stornierungen müssen schriftlich erfolgen.  
-* Bei zu geringer Nachfrage oder anderen Gründen, die die Veranstalter nicht zu vertreten haben, kann ein Kurs auch nach erfolgter Teilnahme- oder Anmeldebestätigung abgesagt werden. Sie erhalten in diesem Falle alle bereits gezahlten Gebühren erstattet, weitere Ansprüche gegen die Veranstalter oder die Dozenten bestehen nicht.  
-* Workshops mit einem einzelnen Trainer begrenzen wir auf 15 Personen, zu zweit bzw. dritt unterrichten wir bis zu 25 Personen. Mit diesen Teilnehmerzahlen haben wir über lange Jahre gute Erfahrungen gemacht – wir moderieren aktiv und sorgen für effektive Übungsgruppen und produktive Diskussionen.  
-
+* Prices do not include VAT, are valid for one participant and include the seminar, detailed conference documentation, lunch and conference drinks.
+* Invoice amounts are payable net within 14 days after receipt of invoice, discounts are not granted.
+* Only timely receipt of payment (according to invoice) entitles to participation.
+* Registrations are binding. You will receive a confirmation of registration at short notice.
+* Cancellation up to 10 days before the start of the event is possible for a processing fee of 50 EUR. For later cancellations 50% of the seminar price will be charged. In case of no-show, the participation fee has to be paid in full. A substitute participant can of course be named. Cancellations must be made in writing.
+* In the event of insufficient demand or other reasons beyond the organizers' control, a course may be cancelled even after confirmation of participation or registration. In this case you will receive a refund of all fees already paid, there are no further claims against the organizers or the instructors.
+* Workshops with a single trainer we limit to 15 persons, in pairs or threes we teach up to 25 persons. We have had good experience with these numbers of participants over many years - we actively moderate and ensure effective practice groups and productive discussions.
 </div>

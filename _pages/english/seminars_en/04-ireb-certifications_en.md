@@ -41,7 +41,7 @@ You will receive your certificate upon receipt of payment.
 <br><br>
 **€ 600,- per examinee**
 <br><br>
-These costs will be charged directly to you by the exam company after the first part, the multiple choice test.
+These costs will be invoiced to you directly by the testing company after the first part, the multiple choice test.
 After passing the multiple choice exam, you will receive the details for the term paper.
 
 </div>

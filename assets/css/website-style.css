@@ -131,7 +131,7 @@ span.post-title {
   }
 }
 
-/* Max width for image */
+/* Max widths */
 
 img.max900 {
     width:100%;
@@ -148,9 +148,14 @@ img.max600 {
     max-width:600px;
 }
 
-img.max500 {
+.max500 {
     width:100%;
     max-width:500px;
+}
+
+.max450 {
+    width:100%;
+    max-width:450px;
 }
 
 /* Headings with bold/not bold parts */

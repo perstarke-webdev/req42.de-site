@@ -10,44 +10,43 @@ header:
 
 <div class="splash_text" markdown="1"> 
 
-Peter Hruschka ist Gründungsmitglied des IREB e.V. (International Requirements Engineering Board) und engagiert sich 
-seit vielen Jahren im Verein. Er hat am Foundation Level mitgearbeitet, sowie die beiden Advanced Levels 
-„Requirements Modeling“ und „RE@Agile“ maßgeblich mitgestaltet.
+Peter Hruschka is a founding member of the IREB e.V. (International Requirements Engineering Board) and has been involved in the association for many years.
+He has been involved in the Foundation Level, as well as the two Advanced Levels "Requirements Modeling" and "RE@Agile".
 <br><br>
-Markus Meuten hat als Product Owner des Advanced Levels „RE@Agile“ wesentlich zu dessen Gelingen beigetragen.
+As Product Owner of the Advanced Level "RE@Agile", Markus Meuten contributed significantly to its success.
 <br><br>
-Beide sind Co-Autoren des IREB-Handbuchs zum Advanced Level „RE@Agile“.
+Both are co-authors of the IREB manual on the Advanced Level "RE@Agile".
 <br><br>
-Gemäß den Regularien des IREB e.V. werden die Zertifizierungsprüfungen von unabhängiger Stelle durchgeführt. 
-Wir arbeiten seit vielen Jahren erfolgreich mit 
-[Future Network Cert](http://www.future-network-cert.at/de/future-network-cert/index.html) in diesem Bereich zusammen.
+According to the regulations of IREB e.V., the certification tests are performed by an independent body.
+We have been working successfully for many years with
+[Future Network Cert](http://www.future-network-cert.at/de/future-network-cert/index.html) in this area.
 
 <div class="grid-container small-container" markdown="1">
-<div class="box light_blue" markdown="1">
+<div class="box light_blue max450" markdown="1">
 
-## Kosten für die Foundation Level Prüfung:
-(Multiple Choice Test, 75 Minuten, ca. 45 Fragen)
+## Costs for the foundation Level exam:
+(multiple choice test, 75 minutes, approx. 45 questions)
 <br><br>
-**€ 250,- pro Prüfling**
+**€ 250,- per examinee**
 <br><br>
-Diese Kosten werden direkt von der Prüfungsfirma nach der Prüfung an Sie in Rechnung gestellt. 
-Sie erhalten Ihr Zertifikat nach Eingang der Zahlung zugestellt.
+These costs will be invoiced to you directly by the testing company after the exam.
+You will receive your certificate upon receipt of payment.
 
 </div>
 
-<div class="box light_blue" markdown="1">
+<div class="box light_blue max450" markdown="1">
 
-## Kosten für Advanced Level Prüfungen:
-(Teil 1: Multiple Choice Test, Teil 2: Hausarbeit)
+## Costs for the Advanced Level exams:
+(Part 1: Multiple Choice Test, Part 2: Homework)
 <br><br>
-**€ 600,- pro Prüfling**
+**€ 600,- per examinee**
 <br><br>
-Diese Kosten werden direkt von der Prüfungsfirma nach dem ersten Teil, dem Multiple-Choice-Test, an Sie in Rechnung gestellt.
-Nach Bestehen der Multiple Choice Prüfung erhalten Sie die Angaben für die Hausarbeit.
+These costs will be charged directly to you by the exam company after the first part, the multiple choice test.
+After passing the multiple choice exam, you will receive the details for the term paper.
 
 </div>
 
 </div>
 
-Weitere Details zu den Prüfungen finden Sie auf der [IREB Homepage](https://www.ireb.org/de/exams/)
+For more details on the exams, please visit the [IREB homepage](https://www.ireb.org/de/exams/).
 </div>

@@ -68,6 +68,6 @@ Sie lernen Business Value Maximierung und Risikoreduzierung. Wie sortiert man de
 * **Exam Preparation**  
   We review everything you need to know for the Advanced Level exam "RE@Agile". From 15:00 you can take [the first part of the exam](/en/ireb-certifications) (the multiple choice test) directly.
 
-# Prerequisite:
+# Prerequisites:
 **none!**
 </div>

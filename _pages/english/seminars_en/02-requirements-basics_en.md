@@ -1,5 +1,5 @@
 ---
-title: Requirements Basics (Power-seminar)
+title: Requirements Basics (Power-Seminar)
 layout: splash_en
 permalink: /en/requirements-basics
 header:
@@ -57,7 +57,7 @@ Includes detailed training and exercise materials.
 * Quality Managers
 * ... and everyone who currently suffers from bad or missing requirements. 🙂
 
-## Prerequisite:
+## Prerequisites:
 * None.
 * We recommend this power course to qualify you for the CPRE-F exam. This certificate is a prerequisite for all IREB advanced level exams.
 * **Caution**: This course alone is NOT suitable to become a good Requirements Engineer or Business Analyst without prior knowledge.

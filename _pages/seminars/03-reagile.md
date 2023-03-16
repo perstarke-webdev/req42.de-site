@@ -50,7 +50,7 @@ evtl. verteile Projekte skaliert.
 
 # Inhalt:
 
-(basierend auf dem IREB Lehrplan RE@AGILE – erweitert um viele Praxistipps und Good Practices)
+(basierend auf dem IREB Lehrplan RE@AGILE – erweitert um viele Praxistipps und *Good Practices*)
 
 * **Agile Methoden und Requirements Engineering – zwei ideale Partner**  
   Sie lernen, wie Sie raschen Produkterfolg und solide Anforderungen unter einen Hut bekommen. Wie Sie dicke Dokumente einsparen können, wenn Sie stattdessen geeignet und oft kommunizieren. Agile Requirements sind Just-in-Time Requirements. Soviel Präzision wie nötig, aber so wenig Details wie möglich.

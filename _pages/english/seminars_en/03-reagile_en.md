@@ -9,7 +9,7 @@ excerpt: "A 3-day workshop
   by the agile duo Peter Hruschka and Markus Meuten"
 
 next_step:
-- image_path: images/seminars/reagile/next_step.jpeg
+- image_path: images/seminars/reagile/next_step_en.webp
   title: "Take the next step on your requirements engineering career ladder!"
   excerpt: "This workshop leads you in a practical and pragmatic way to the Advanced Level in Requirements Engineering. Become an *'RE@Agile Practioner'* after the multiple choice test or an *'RE@Agile Specialist'* through an additional homework."
   

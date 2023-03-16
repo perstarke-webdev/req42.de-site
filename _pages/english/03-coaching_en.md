@@ -1,6 +1,6 @@
 ---
 title: Impulse Coaching
-layout: splash
+layout: splash_en
 permalink: /en/coaching
 header:
     overlay_image: /images/headers/coaching_header.webp

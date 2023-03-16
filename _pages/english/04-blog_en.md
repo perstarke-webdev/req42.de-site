@@ -1,7 +1,7 @@
 ---
 title: Blog
-layout: splash
-permalink: /blog
+layout: splash_en
+permalink: /en/blog
 header:
     overlay_image: /images/headers/blog_header.webp
     caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
@@ -13,8 +13,8 @@ header:
 <center>
 {% for tag in sorted_tags %}
 {% capture tag_name %}{{ tag | first }}{% endcapture %}
-{% unless tag_name == "Agile Results"%}
-<a class="hov" href="{{site.baseurl}}/blog#{{tag_name|slugize}}">{{tag_name}}</a>
+{% unless tag_name == "Agile Ergebnisse"%}
+<a class="hov" href="{{site.baseurl}}/en/blog#{{tag_name|slugize}}">{{tag_name}}</a>
 {% endunless %}
 {% endfor %}
 </center>
@@ -25,13 +25,13 @@ header:
   {% for tag in sorted_tags %}
   <div class="archive-group">
     {% capture tag_name %}{{ tag | first }}{% endcapture %}
-    {% unless tag_name == "Agile Results"%}
+    {% unless tag_name == "Agile Ergebnisse"%}
     <div id="#{{ tag_name | slugize }}"></div>
     <h1 class="tag-head">{{ tag_name }}</h1>
     <a name="{{ tag_name | slugize }}"></a>
     {% endunless %}
     {% assign posts = site.tags[tag_name] | sort %}
-    {% assign posts = posts | where: "categories", "german_blog" %}
+    {% assign posts = posts | where: "categories", "english_blog" %}
     {% for post in posts %}
     <article class="archive-item">
       <h3>

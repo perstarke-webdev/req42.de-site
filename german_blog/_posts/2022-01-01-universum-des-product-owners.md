@@ -123,7 +123,7 @@ Zur Darstellung der Scope-Abgrenzung gibt es viele verschiedene Ausdrucksmittel,
 
 req42 empfiehlt Ihnen mit dem Business-Scope zu beginnen und nicht zu früh den Product-Scope einzuschränken. Die Entscheidung über die Produktgrenze sollte eine bewusste Entscheidung sein.
 
-Mehr über dieses unverzichtbare Thema lesen Sie im Blog-Beitrag [„Scope ist nicht gleich Scope“](/scope-ist-nicht-gleich-scope/) oder in [2]. In unseren Kursen üben Sie die Scope-Abgrenzung anhand einer realistischen Fallstudie. Oder wir machen das gemeinsam mit Ihnen anhand Ihrer Produkte in Form von Impuls-Workshops.
+Mehr über dieses unverzichtbare Thema lesen Sie im Blog-Beitrag [„Scope ist nicht gleich Scope“](/german_blog/scope-ist-nicht-gleich-scope/) oder in [2]. In unseren Kursen üben Sie die Scope-Abgrenzung anhand einer realistischen Fallstudie. Oder wir machen das gemeinsam mit Ihnen anhand Ihrer Produkte in Form von Impuls-Workshops.
 
 <h3 class="non-bold-header">4.3 - </h3> <h3 class="bold-header"> Quality Requirements </h3>
 <p class="smaller"> &nbsp; </p>

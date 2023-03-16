@@ -23,6 +23,6 @@ Schwieriger wird es auch, wenn das Ergebnis Ihrer Arbeit nicht alleine vermarktb
 
 ### Zusammenfassung und Empfehlung
 
-Sie merken schon: der Begriff „Product“ hat vielerlei Facetten. In req42 klären wir die Frage „Was ist mein Product“ ziemlich früh im Projekt, indem wir den Scope festlegen und die Schnittstelle zum Kontext abgrenzen. Fangen Sie niemals Ihre Arbeit als Product Owner an, ohne diese wichtige Aufgabe zu erledigen. Lesen Sie dazu den Blogbeitrag [„Scope ist nicht gleich Scope“](/scope-ist-nicht-gleich-scope/), der Ihnen erläutert, wie Sie das tun können und wie Sie sicherstellen können, dass Sie nicht ständig unter Requirements-Creep leiden.
+Sie merken schon: der Begriff „Product“ hat vielerlei Facetten. In req42 klären wir die Frage „Was ist mein Product“ ziemlich früh im Projekt, indem wir den Scope festlegen und die Schnittstelle zum Kontext abgrenzen. Fangen Sie niemals Ihre Arbeit als Product Owner an, ohne diese wichtige Aufgabe zu erledigen. Lesen Sie dazu den Blogbeitrag [„Scope ist nicht gleich Scope“](/german_blog/scope-ist-nicht-gleich-scope/), der Ihnen erläutert, wie Sie das tun können und wie Sie sicherstellen können, dass Sie nicht ständig unter Requirements-Creep leiden.
 
 Viel Spaß bei der Arbeit mit Ihrem „Product“.

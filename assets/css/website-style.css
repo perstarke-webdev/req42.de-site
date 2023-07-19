@@ -221,3 +221,12 @@ a.hov:visited{color:MidnightBlue}
 hr.art-sep {
     border-top: 2px solid grey
 }
+
+/* black links for format overview */
+a.format-overview {
+    color: black !important;
+}
+
+a.format-overview:hover {
+    color: DimGray !important;
+}

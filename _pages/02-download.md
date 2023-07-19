@@ -13,7 +13,7 @@ excerpt: "Alle verfügbaren req42-Templates zum Download - [verschiedene Formate
 Diese Formate werden aus dem [req42-Github-Repository](https://github.com/Hruschka/req42-framework/) generiert.
 
 {% assign PREFIX = "https://github.com/Hruschka/req42-framework/raw/main/dist/req42-framework-" %}
-{% assign formats = "asciidoc|docbook|docx|epub|markdown|markdownMP|markdownMPStrict|markdownStrict|gitHubMarkdown|gitHubMarkdownMP|html|latex|rst|textile" | split: "|"  %}  
+{% assign formats = "asciidoc|docbook|docx|epub|markdown|markdownStrict|markdownMP|markdownMPStrict|gitHubMarkdown|gitHubMarkdownMP|html|latex|rst|textile" | split: "|"  %}  
 {% assign types = "plain|withhelp" | split: "|"  %}
 
 | Format | Sprache | Ohne Erklärungen | Mit Erklärungen für jeden Abschnitt |

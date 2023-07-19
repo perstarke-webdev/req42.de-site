@@ -13,7 +13,7 @@ excerpt: "All available req42 templates for download - [various formats](#overvi
 These formats are generated from the [req42 GitHub repository](https://github.com/Hruschka/req42-framework/).
 
 {% assign PREFIX = "https://github.com/Hruschka/req42-framework/raw/main/dist/req42-framework-" %}
-{% assign formats = "asciidoc|docbook|docx|epub|markdown|markdownMP|markdownMPStrict|markdownStrict|gitHubMarkdown|gitHubMarkdownMP|html|latex|rst|textile" | split: "|"  %}
+{% assign formats = "asciidoc|docbook|docx|epub|markdown|markdownStrict|markdownMP|markdownMPStrict|gitHubMarkdown|gitHubMarkdownMP|html|latex|rst|textile" | split: "|"  %}
 {% assign types = "plain|withhelp" | split: "|"  %}
 
 | Format | Language | Without explanations | With explanations for each section |
@@ -26,30 +26,30 @@ These formats are generated from the [req42 GitHub repository](https://github.co
 
 # Overview of different formats
 
-- **asciidoc**: A powerful yet simple markup language commonly used for architecture documentation.
+- [**asciidoc**:](https://asciidoc.org/) A powerful yet simple markup language commonly used for architecture documentation.
 
-- **docbook**: An XML-based document format often used for technical documentation and books.
+- [**docbook**:](https://docbook.org/) An XML-based document format often used for technical documentation and books.
 
-- **docx**: A Microsoft Word document format that can be used with LibreOffice or OpenOffice.
+- [**docx**:](https://docs.fileformat.com/word-processing/docx/) A Microsoft Word document format that can be used with LibreOffice or OpenOffice.
 
-- **epub**: A widely adopted format for e-books based on open standards, readable on various e-book readers and platforms.
+- [**epub**:](https://en.wikipedia.org/wiki/EPUB) A widely adopted format for e-books based on open standards, readable on various e-book readers and platforms.
 
-- **markdown**: A widely used and straightforward markup language, originally documented by its creator.
+- [**markdown**:](https://www.markdownguide.org/) A widely used and straightforward markup language, originally documented by its creator.
+
+- **markdownStrict**: A restricted version of the general Markdown syntax, documented by its creator.
 
 - **markdownMP**: The same format as "markdown" above, but each section is in its own file.
 
 - **markdownMPStrict**: A restricted version of the "markdownMP" markup language, documented by its creator.
 
-- **markdownStrict**: A restricted version of the general Markdown syntax, documented by its creator.
-
-- **gitHubMarkdown**: A variant of Markdown used on [github.com](https://github.com/) and GitHub Enterprise.
+- [**gitHubMarkdown**:](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) A variant of Markdown used on [github.com](https://github.com/) and GitHub Enterprise.
 
 - **gitHubMarkdownMP**: The same format as "gitHubMarkdown" above, but each section is in its own file.
 
-- **html**: Used for display purposes only, not for editing.
+- [**html**:](https://en.wikipedia.org/wiki/HTML) Used for display purposes only, not for editing.
 
-- **latex**: A comprehensive document preparation system often used by individuals who value aesthetics and are willing to put in some effort.
+- [**latex**:](https://www.latex-project.org/) A comprehensive document preparation system often used by individuals who value aesthetics and are willing to put in some effort.
 
-- **rst**: ReStructuredText, a markup language commonly used by ReadTheDocs and in the Python world.
+- [**rst**:](https://docutils.sourceforge.io/rst.html) ReStructuredText, a markup language commonly used by ReadTheDocs and in the Python world.
 
-- **textile**: Another simple markup language, documented at [textile-lang.com](https://textile-lang.com/).
+- [**textile**:](https://textile-lang.com/) Another simple markup language.

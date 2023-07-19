@@ -26,30 +26,47 @@ These formats are generated from the [req42 GitHub repository](https://github.co
 
 # Overview of different formats
 
-- [**asciidoc**:](https://asciidoc.org/) A powerful yet simple markup language commonly used for architecture documentation.
-
-- [**docbook**:](https://docbook.org/) An XML-based document format often used for technical documentation and books.
-
-- [**docx**:](https://docs.fileformat.com/word-processing/docx/) A Microsoft Word document format that can be used with LibreOffice or OpenOffice.
-
-- [**epub**:](https://en.wikipedia.org/wiki/EPUB) A widely adopted format for e-books based on open standards, readable on various e-book readers and platforms.
-
-- [**markdown**:](https://www.markdownguide.org/) A widely used and straightforward markup language, originally documented by its creator.
-
-- **markdownStrict**: A restricted version of the general Markdown syntax, documented by its creator.
-
-- **markdownMP**: The same format as "markdown" above, but each section is in its own file.
-
-- **markdownMPStrict**: A restricted version of the "markdownMP" markup language, documented by its creator.
-
-- [**gitHubMarkdown**:](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) A variant of Markdown used on [github.com](https://github.com/) and GitHub Enterprise.
-
-- **gitHubMarkdownMP**: The same format as "gitHubMarkdown" above, but each section is in its own file.
-
-- [**html**:](https://en.wikipedia.org/wiki/HTML) Used for display purposes only, not for editing.
-
-- [**latex**:](https://www.latex-project.org/) A comprehensive document preparation system often used by individuals who value aesthetics and are willing to put in some effort.
-
-- [**rst**:](https://docutils.sourceforge.io/rst.html) ReStructuredText, a markup language commonly used by ReadTheDocs and in the Python world.
-
-- [**textile**:](https://textile-lang.com/) Another simple markup language.
+<ul>
+  <li>
+    <p><a rel="noopener noreferrer nofollow" target="_blank" class="format-overview" href="https://asciidoc.org/"><strong>asciidoc</strong>:</a> A powerful yet simple markup language commonly used for architecture documentation.</p>
+  </li>
+  <li>
+    <p><a rel="noopener noreferrer nofollow" target="_blank" class="format-overview" href="https://docbook.org/"><strong>docbook</strong>:</a> An XML-based document format often used for technical documentation and books.</p>
+  </li>
+  <li>
+    <p><a rel="noopener noreferrer nofollow" target="_blank" class="format-overview" href="https://docs.fileformat.com/word-processing/docx/"><strong>docx</strong>:</a> A Microsoft Word document format that can be used with LibreOffice or OpenOffice.</p>
+  </li>
+  <li>
+    <p><a rel="noopener noreferrer nofollow" target="_blank" class="format-overview" href="https://en.wikipedia.org/wiki/EPUB"><strong>epub</strong>:</a> A widely adopted format for e-books based on open standards, readable on various e-book readers and platforms.</p>
+  </li>
+  <li>
+    <p><a rel="noopener noreferrer nofollow" target="_blank" class="format-overview" href="https://www.markdownguide.org/"><strong>markdown</strong>:</a> A widely used and straightforward markup language, originally documented by its creator.</p>
+  </li>
+  <li>
+    <p><strong>markdownStrict</strong>: A restricted version of the general Markdown syntax, documented by its creator.</p>
+  </li>
+  <li>
+    <p><strong>markdownMP</strong>: The same format as “markdown” above, but each section is in its own file.</p>
+  </li>
+  <li>
+    <p><strong>markdownMPStrict</strong>: A restricted version of the “markdownMP” markup language, documented by its creator.</p>
+  </li>
+  <li>
+    <p><a rel="noopener noreferrer nofollow" target="_blank" class="format-overview" href="https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax"><strong>gitHubMarkdown</strong>:</a> A variant of Markdown used on <a rel="noopener noreferrer nofollow" target="_blank" href="https://github.com/">github.com</a> and GitHub Enterprise.</p>
+  </li>
+  <li>
+    <p><strong>gitHubMarkdownMP</strong>: The same format as “gitHubMarkdown” above, but each section is in its own file.</p>
+  </li>
+  <li>
+    <p><a rel="noopener noreferrer nofollow" target="_blank" class="format-overview" href="https://en.wikipedia.org/wiki/HTML"><strong>html</strong>:</a> Used for display purposes only, not for editing.</p>
+  </li>
+  <li>
+    <p><a rel="noopener noreferrer nofollow" target="_blank" class="format-overview" href="https://www.latex-project.org/"><strong>latex</strong>:</a> A comprehensive document preparation system often used by individuals who value aesthetics and are willing to put in some effort.</p>
+  </li>
+  <li>
+    <p><a rel="noopener noreferrer nofollow" target="_blank" class="format-overview" href="https://docutils.sourceforge.io/rst.html"><strong>rst</strong>:</a> ReStructuredText, a markup language commonly used by ReadTheDocs and in the Python world.</p>
+  </li>
+  <li>
+    <p><a rel="noopener noreferrer nofollow" target="_blank" class="format-overview" href="https://textile-lang.com/"><strong>textile</strong>:</a> Another simple markup language.</p>
+  </li>
+</ul>

@@ -228,5 +228,5 @@ a.format-overview {
 }
 
 a.format-overview:hover {
-    color: DimGray !important;
+    color: rgb(80,80,80) !important;
 }

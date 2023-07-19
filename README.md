@@ -1,6 +1,6 @@
 # req42.de-site
 
-Repository for the website req42.de
+Repository for the website [req42.de](https://req42.de/)
 
 ## Credits
 

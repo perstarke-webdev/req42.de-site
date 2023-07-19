@@ -5,7 +5,7 @@ permalink: /download
 header:
     overlay_image: /images/headers/home_header.webp
     overlay_filter: rgba(0, 0, 0, 0.6)
-excerpt: "Alle verfügbaren req42-Templates zum Download - [verschiedene Formate](/download#übersicht-der-verschiedenen-formate) für verschiedene Tools"
+excerpt: "Alle verfügbaren req42-Templates zum Download - [verschiedene Formate](#übersicht-der-verschiedenen-formate) für verschiedene Tools"
 ---
 
 # Filebasierte Formate
@@ -42,7 +42,7 @@ Diese Formate werden aus dem [req42-Github-Repository](https://github.com/Hrusch
 
 - **markdownStrict**: Eine eingeschränkte Version der allgemeinen Markdown-Syntax, dokumentiert vom Erfinder.
 
-- **gitHubMarkdown**: Eine Variante von Markdown, die auf GitHub.com und GitHub Enterprise verwendet wird.
+- **gitHubMarkdown**: Eine Variante von Markdown, die auf [github.com](https://github.com/) und GitHub Enterprise verwendet wird.
 
 - **gitHubMarkdownMP**: Das gleiche Format wie "gitHubMarkdown" oben, aber jeder Abschnitt befindet sich in seiner eigenen Datei.
 

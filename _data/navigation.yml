@@ -4,6 +4,8 @@ main:
     url: /
   - title: "Das req42-Framework"
     url: /req42-im-ueberblick
+  - title: "Download"
+    url: /download
   - title: "Seminare"
     url: /kurse
   - title: "Impuls-Coaching"
@@ -19,6 +21,8 @@ main_en:
     url: /en
   - title: "The req42-framework"
     url: /en/req42-at-a-glance
+  - title: "Download"
+    url: /en/download
   - title: "Seminars"
     url: /en/seminars
   - title: "Impulse Coaching"

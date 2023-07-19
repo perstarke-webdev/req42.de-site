@@ -39,13 +39,13 @@ Dass das Management Endtermine und Budgetgrenzen vorgehen will und darf, versteh
 
 Einige andere davon fallen in unserer Sprechweise unter technische Randbedingngen:
 
-* Solution Constraints (Vorgeschriebene Technologien oder Lösugen)
+* Solution Constraints (Vorgeschriebene Technologien oder Lösungen)
 * Implementation Environment of the Current System (die technologische Umgebung, in die das zu entwickelnde Produkt eingepasst werden muss)
 * Partner or Colloborative Applications (Randbedingungen, die sich aus den Schnittstellen mit anderen Systemen ergeben. Nutzen Sie dazu Ihr Kontextdiagramm, um diese zu identifieren)
 * Off-the-Shelf-Produkte (kommerzielle Produkte, Open-Source-Produkte oder andere OTS software, die für die Lösung verwendet werden müssen. Das kann auch vorgeschriebene Hardware-Komponenten oder Geräte einschließen)
 * Anticipated Workplace Environment (alles, was Sie über die geplante Einsatzumgebung, d.h. den Arbeitsplatz, wissen sollten, am dem Ihr Produkt eingesetzt werden soll. Z.B. Der Arbeitsplatz liegt in einer lauten Fabrikshalle, so dass Audioausgaben vielleicht überhört werden)
 
-Die achte Kategorie nennt VOLERE "Enterprise Constraints". Darunter versteht man Vorgaben des Unternehmens, die sich nicht unmittelbar auf das Projekt beziehen, an dem Sie gerade arbeiten, sondern die jemand aus strategischen Gründen einfach festgelegt hat. Das können einerseits technologische Vorgaben sein, wie "Wir verwenden nur Komponenten, die in Europa hergestellt werden", oder aber organisatorische Vorgaben wie "Dem CEO müssen alle Funktionen des Produkts uneingeschränkt zur Verfügung stehen."
+Die achte Kategorie nennt Volere "Enterprise Constraints". Darunter versteht man Vorgaben des Unternehmens, die sich nicht unmittelbar auf das Projekt beziehen, an dem Sie gerade arbeiten, sondern die jemand aus strategischen Gründen einfach festgelegt hat. Das können einerseits technologische Vorgaben sein, wie "Wir verwenden nur Komponenten, die in Europa hergestellt werden", oder aber organisatorische Vorgaben wie "Dem CEO müssen alle Funktionen des Produkts uneingeschränkt zur Verfügung stehen."
 
 ## Auch hinter Randbedingungen stehen Stakeholder
 

@@ -1,5 +1,6 @@
 ---
 name: "Randbedingungen"
+keepTitleStyle: true
 author: Peter Hruschka
 tag: Agile Ergebnisse
 excerpt: 'Häufig werden Anforderungen in der Literatur in zwei Kategorien eingeteilt, in funktionale Anforderungen und nicht-funktionale Anforderungen. Und bei den "nicht-funktionalen Anforderungen" denkt man meist an Qualitäten wie Performanz, Sicherheit, Benutzerfreundlichkeit, etc.. Aber neben den Qualitätsanforderungen gehören zu den nicht-funktionalen Anforderungen auch die Randbedingungen.'

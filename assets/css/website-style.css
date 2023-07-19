@@ -1,4 +1,4 @@
-/* special styles for Per Starke Web-Dev website */
+/* special styles for req42 website */
 
 /* a big separating dashed line */
 hr.big-sep {
@@ -108,12 +108,12 @@ h1.no-break {
 }
 
 /* Post title */
-h1.post-title {
+h1.post-title, h1.post-title-change {
   text-align: center;
   text-decoration: underline;
 }
 
-span.post-title {
+span.post-title, span.post-title-change {
   background-color: rgba(0, 0, 255, 0.15);
   border: 2px solid rgb(210, 210, 210);
   border-radius: 5px;
@@ -122,8 +122,8 @@ span.post-title {
   padding-right: 8px;
 }
 
-@media (max-width: 500px) {
-  .post-title {
+@media (max-width: 640px) {
+  h1.post-title-change, span.post-title-change  {
     background-color: white !important;
     border: 0px solid white !important;
     text-decoration: none !important;

@@ -22,7 +22,7 @@ Diese Formate werden aus dem [req42-Github-Repository](https://github.com/Hrusch
 |  | DE | {% for type in types %} [.zip]({{PREFIX}}DE-{{type}}-{{format}}.zip) |{% endfor %}
 {% endfor %}
 
-<br><br>
+<hr class="download-sep">
 
 # Übersicht der verschiedenen Formate
 

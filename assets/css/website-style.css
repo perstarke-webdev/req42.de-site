@@ -10,6 +10,12 @@ hr.blue-sep {
     border-top: 3px solid CornflowerBlue;
 }
 
+/* a semi-big separating grey solid line with top and bottom margins */
+hr.download-sep {
+    margin: 50px 0px 50px 0px;
+    border-top: 2.5px solid grey;
+}
+
 /* For making the framework-text not go to the full edge of the screen */
 div.splash_text {
     margin-left: 50px;

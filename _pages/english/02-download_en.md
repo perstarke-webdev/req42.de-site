@@ -22,7 +22,7 @@ These formats are generated from the [req42 GitHub repository](https://github.co
 |  | DE | {% for type in types %} [.zip]({{PREFIX}}DE-{{type}}-{{format}}.zip) |{% endfor %}
 {% endfor %}
 
-<br><br>
+<hr class="download-sep">
 
 # Overview of different formats
 

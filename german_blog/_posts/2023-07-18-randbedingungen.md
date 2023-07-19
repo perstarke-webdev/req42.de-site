@@ -65,9 +65,9 @@ Aus dem Grund stellt Ihnen das req42-Framework eine eigene "Schublade" für die 
 
 ## Links & Literatur
 
-[1] Hruschka, P.: Business Analysis und Requirements Engineering, 3. Auflage, Hanser-Verlag, 2023.
+[1] [Hruschka, P.: Business Analysis und Requirements Engineering, 3. Auflage, Hanser-Verlag, 2023.](https://www.hanser-fachbuch.de/fachbuch/artikel/9783446476929)
 
-[2] www.req42.de Das Framework für agiles Requirements Engineering
+[2] [www.req42.de Das Framework für agiles Requirements Engineering](https://req42.de/)
 
-[3] www.volere.co.uk: Das klassische Requirements-Template von Suzanne und James Robertson
+[3] [www.volere.co.uk: Das klassische Requirements-Template von Suzanne und James Robertson](http://www.volere.co.uk/)
 

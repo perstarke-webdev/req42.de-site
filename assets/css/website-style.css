@@ -169,6 +169,11 @@ img.max600 {
     max-width:450px;
 }
 
+.max300 {
+    width:100%;
+    max-width:300px;
+}
+
 /* img positions */
 
 

@@ -8,6 +8,8 @@ main:
     url: /download
   - title: "Seminare"
     url: /kurse
+  - title: "Termine"
+    url: /termine
   - title: "Impuls-Coaching"
     url: /coaching
   - title: "Blog"

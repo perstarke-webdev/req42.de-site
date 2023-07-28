@@ -243,3 +243,9 @@ a.format-overview {
 a.format-overview:hover {
     color: rgb(80,80,80) !important;
 }
+
+
+
+span.tiny{
+   font-size: 0.5em;
+}

@@ -29,4 +29,76 @@ feature_row:
   excerpt: "Am effektivsten direkt in Ihrem Projekt: Wir erstellen und verfeinern Ihren Product-Backlog zusammen mit Ihren Requirements-Spezialisten"
 ---
 
-{% include feature_row id="feature_row" %}
+
+<div class="feature__wrapper">
+
+
+    <div class="feature__item">
+      <div class="archive__item">
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">Seminare</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>In unseren Seminaren bringen wir Ihnen als Product-Owner oder agile Requirements Engineers das notwendige Handwerkszeug bei. <br /> <br /> Live oder online – vereinbaren Sie Termine mit uns!</p>
+
+            </div>
+          
+
+          
+            <p><a href="/kurse" class="btn btn--info">Mehr dazu</a> <a href="/termine" class="btn btn--info">Termine</a></p>
+          
+        </div>
+      </div>
+    </div>
+  
+    <div class="feature__item">
+      <div class="archive__item">
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title"><center> <small> Peter Hruschka &amp; Markus Meuten </small></center></h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p><img src="/images/home/peter_markus.webp" alt="" /><br /> Als agiles Duo zeigen wir Ihnen bei öffentlichen Seminaren agiles Requirements Engineering aus verschiedenen Blickwinkeln.</p>
+
+            </div>
+          
+
+          
+        </div>
+      </div>
+    </div>
+  
+    <div class="feature__item">
+      <div class="archive__item">
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">Coaching</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>Am effektivsten direkt in Ihrem Projekt: Wir erstellen und verfeinern Ihren Product-Backlog zusammen mit Ihren Requirements-Spezialisten</p>
+
+            </div>
+          
+
+          
+            <p><a href="/coaching" class="btn btn--info">Mehr dazu</a></p>
+          
+        </div>
+      </div>
+    </div>
+
+
+</div>

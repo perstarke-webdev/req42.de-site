@@ -149,31 +149,5 @@ a.button25 {
 }
 
 
-/* Buttons */
 
-/* Button-Stil für den dunkleren blauen Button */
-.btn-custom-blue {
-  background-color: #0056b3; /* Dunkleres Blau */
-  border-color: #0056b3; /* Dunkleres Blau */
-  color: #fff !important;
-}
-
-.btn-custom-blue:hover {
-  background-color: #003a80; /* Dunkleres Blau im Hover-Zustand */
-  border-color: #003a80; /* Dunkleres Blau im Hover-Zustand */
-  color: #fff; /* Textfarbe im Hover-Zustand */
-}
-
-/* Button-Stil für den rötlichen Button */
-.btn-custom-red {
-  color: #fff;
-  background-color: #b3000a; /* Rötliches Blau */
-  border-color: #b3000a; /* Rötliches Blau */
-}
-
-.btn-custom-red:hover {
-  background-color: #800006; /* Rötliches Blau im Hover-Zustand */
-  border-color: #800006; /* Rötliches Blau im Hover-Zustand */
-  color: #fff; /* Textfarbe im Hover-Zustand */
-}
 

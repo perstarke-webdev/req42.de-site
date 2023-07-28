@@ -249,3 +249,34 @@ a.format-overview:hover {
 span.tiny{
    font-size: 0.5em;
 }
+
+
+
+
+/* Buttons */
+
+/* Button-Stil für den dunkleren blauen Button */
+.btn-custom-blue {
+  background-color: #0056b3;
+  border-color: #0056b3;
+  color: #fff !important;
+}
+
+.btn-custom-blue:hover {
+  background-color: #003a80;
+  border-color: #003a80;
+  color: #fff;
+}
+
+/* Button-Stil für den rötlichen Button */
+.btn-custom-red {
+  background-color: #b3000a;
+  border-color: #b3000a;
+  color: #fff !important;
+}
+
+.btn-custom-red:hover {
+  background-color: #800006;
+  border-color: #800006;
+  color: #fff;
+}

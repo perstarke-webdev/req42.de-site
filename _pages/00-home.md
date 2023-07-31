@@ -27,8 +27,29 @@ feature_row:
   btn_label: "Mehr dazu"
   btn_class: btn--info
   excerpt: "Am effektivsten direkt in Ihrem Projekt: Wir erstellen und verfeinern Ihren Product-Backlog zusammen mit Ihren Requirements-Spezialisten"
+  
+
+news:
+  - excerpt: "Das req42-Framework kann jetzt in verschiedenen Formaten heruntergeladen werden"
+    url: "/download"
+    btn_label: "Zum Download"
+    btn_class: btn--info
+  - excerpt: "Werfen Sie einen Blick auf die vielen Tipps zu req42 unter der neuen Docs-Website"
+    url: "https://docs.req42.de"
+    btn_label: "zu docs.req42.de"
+    btn_class: btn--info
+  - excerpt: Lesen Sie das neue Leanpub-Buch 'Das Praxisbuch für agiles Requirements Engineering'"
+    url: "https://leanpub.com/AgileRE"
+    btn_label: "Zum Buch"
+    btn_class: btn--info
 ---
 
+<div class="news_box">
+
+<h1 style="text-align:center;"> News </h1>
+{% include feature_row id="news" %}
+
+</div>
 
 <div class="feature__wrapper">
 

@@ -36,6 +36,14 @@ div.coaching_box {
     background-color: rgba(0,0,0, 0.05);
 }
 
+
+div.news_box {
+    padding: 10px 10px 0px 10px;
+    border: 3px solid CornflowerBlue;
+    background-color: rgba(0,0,0, 0.05);
+    border-radius: 4px;
+}
+
 /* A bright blue background box (for feature row content) */
 div.blue_box{
     background-color: CornflowerBlue;

@@ -24,9 +24,36 @@ feature_row:
 - title: "Coaching"
   url: "/en/coaching"
   btn_label: "Read more"
-  btn_class: btn--info
+  btn_class: btn--info 
   excerpt: "Training on the Job: we assist your product owners, requirements specialists and portfolio managers to create, manage, order and refine your product backlog."
+  
+
+news:
+    - excerpt: "The req42-framework can be downloaded in various formats "
+      title: "req42 Download"
+      url: "/en/download"
+      btn_label: "Download now"
+      btn_class: btn--info
+    - excerpt: "Take a look at the many tips on req42 under the new Docs-website"
+      title: "Docs-Website"
+      url: "https://docs.req42.de"
+      btn_label: "to docs.req42.de"
+      btn_class: btn--info
+    - excerpt: "Have a look at the new book: 'Das Praxishandbuch für Agiles Requirements Engineering' (in German)"
+      title: "Unser neues Buch"
+      url: "https://leanpub.com/AgileRE"
+      btn_label: "to the book"
+      btn_class: btn--info
 ---
+
+<div class="news_box">
+
+<h1 style="text-align:center; font-size: 2.3rem;"> News </h1>
+
+{% include feature_row id="news" %}
+</div>
+
+<hr class="download-sep">
 
 <div class="feature__wrapper">
 

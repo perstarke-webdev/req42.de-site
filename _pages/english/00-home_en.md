@@ -30,17 +30,17 @@ feature_row:
 
 news:
     - excerpt: "The req42-framework can be downloaded in various formats "
-      title: "req42 Download"
+      title: "req42 download"
       url: "/en/download"
-      btn_label: "Download now"
+      btn_label: "download now"
       btn_class: btn--info
     - excerpt: "Take a look at the many tips on req42 under the new Docs-website"
-      title: "Docs-Website"
+      title: "Docs-website"
       url: "https://docs.req42.de"
       btn_label: "to docs.req42.de"
       btn_class: btn--info
     - excerpt: "Have a look at the new book: 'Das Praxishandbuch für Agiles Requirements Engineering' (in German)"
-      title: "Unser neues Buch"
+      title: "Our new book"
       url: "https://leanpub.com/AgileRE"
       btn_label: "to the book"
       btn_class: btn--info
@@ -48,9 +48,89 @@ news:
 
 <div class="news_box">
 
-<h1 style="text-align:center; font-size: 2.3rem;"> News </h1>
+<h1 style="text-align:center; font-size: 1.8rem;"> News </h1>
 
-{% include feature_row id="news" %}
+
+
+<div class="feature__wrapper">
+
+
+    <div class="feature__item">
+      <div class="archive__item">
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">req42 download</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>The req42-framework can be downloaded in various formats</p>
+
+            </div>
+          
+
+          
+            <p><a href="/en/download" class="btn btn--info">download now</a></p>
+          
+        </div>
+      </div>
+    </div>
+  
+    <div class="feature__item">
+      <div class="archive__item">
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">Docs-website</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>Take a look at the many tips on req42 under the new Docs-website</p>
+
+            </div>
+          
+
+          
+            <p><a href="https://docs.req42.de" class="btn btn--info" rel="noopener noreferrer nofollow" target="_blank">to docs.req42.de</a></p>
+          
+        </div>
+      </div>
+    </div>
+  
+    <div class="feature__item">
+      <div class="archive__item">
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">Our new book</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>Have a look at the new book: ‘Das Praxishandbuch für Agiles Requirements Engineering’ (in German)</p>
+
+            </div>
+          
+
+          
+            <p><a href="https://leanpub.com/AgileRE" class="btn btn--info" rel="noopener noreferrer nofollow" target="_blank">to the book</a></p>
+          
+        </div>
+      </div>
+    </div>
+
+
+</div>
+
+
+
+
+
 </div>
 
 <hr class="download-sep">

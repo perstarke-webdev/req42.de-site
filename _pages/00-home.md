@@ -31,14 +31,17 @@ feature_row:
 
 news:
   - excerpt: "Das req42-Framework kann jetzt in verschiedenen Formaten heruntergeladen werden"
+    title: "req42 Download"
     url: "/download"
     btn_label: "Zum Download"
     btn_class: btn--info
   - excerpt: "Werfen Sie einen Blick auf die vielen Tipps zu req42 unter der neuen Docs-Website"
+    title: "Docs-Website"
     url: "https://docs.req42.de"
     btn_label: "zu docs.req42.de"
     btn_class: btn--info
   - excerpt: Lesen Sie das neue Leanpub-Buch 'Das Praxisbuch für agiles Requirements Engineering'"
+    title: "Unser neues Buch"
     url: "https://leanpub.com/AgileRE"
     btn_label: "Zum Buch"
     btn_class: btn--info
@@ -46,10 +49,12 @@ news:
 
 <div class="news_box">
 
-<h1 style="text-align:center;"> News </h1>
-{% include feature_row id="news" %}
+<h1 style="text-align:center; font-size: 2.3rem;"> News </h1>
 
+{% include feature_row id="news" %}
 </div>
+
+<hr class="download-sep">
 
 <div class="feature__wrapper">
 

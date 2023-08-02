@@ -14,17 +14,6 @@ excerpt: "Wir freuen uns auf Sie!"
 ---
 
 
-<div>
-<center>
-Aktuell funktioniert das Anmeldeformular noch nicht, solange können Sie sich aber gerne per Email anmelden!<br><br>
-
-<a href='mailto:hruschka@b-agile.de?subject=[req42] Anmeldung&body=Ihr Name:%0A%0AFür%20welchen%20Kurs%20melden%20Sie an:%0A-----------------------%0AKursbezeichnung:%0ADatum%20Kursbeginn:%0A%0ATeilnehmende%20Person(en):%0A-----------------------%0AVorname,%20Nachname:%0AEmail:%0A%0ARechnungsadresse:%0A%0A%0A-----------------------%0ABemerkungen:%0A'>
-<button class='btn btn-custom-red'>Anmeldung<br>per E-Mail</button></a>
-</center>
-</div>
-
-<hr class="download-sep">
-
 <noscript>
      <h1>Zur Anmeldung muss Ihr Browser JavaScript erlauben!</h1>
      Aktuell ist das ausgeschaltet... Sie können uns entweder die Anmeldung
@@ -38,7 +27,7 @@ Aktuell funktioniert das Anmeldeformular noch nicht, solange können Sie sich ab
 
 <div id="main_body" style="display: none;">
 
-<form action="https://submit-form.com/AIKiYyJP"
+<form action="https://submit-form.com/KaPJmYoT"
       data-botpoison-public-key="pk_8e195655-38ed-4eec-a445-a1e0d68a488d"
       id="arc42anmeldung">
 
@@ -53,7 +42,7 @@ Aktuell funktioniert das Anmeldeformular noch nicht, solange können Sie sich ab
 
 <label for="kurs">Für welchen Kurs melden Sie an?</label>
 <select id="kurs" name="Kurs" required>
-  <option value=" RE@AGILE">RE@AGILE,  12.-14. Dezember 2023, Frankfurt/Main</option>
+  <option value="RE@AGILE 12.-14. Dezember 2023, Frankfurt/Main">RE@AGILE,  12.-14. Dezember 2023, Frankfurt/Main</option>
   <option value="sonstige">Sonstige</option>
 </select>
 

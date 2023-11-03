@@ -28,16 +28,16 @@ Nachfolgend unsere nächsten Termine mit Austragungsorten. Bitte beachten Sie un
 
 
 
-<!-- RE@AGILE 12-14. Dezember Frankfurt -->
+<!-- RE@AGILE 17-19. Januar Frankfurt -->
 <div class="container left">  
     <div class="content" >
-      12.-14. Dezember 2023, Frankfurt/Main<br>
+      17.-19. Januar 2024, Frankfurt/Main<br>
       <strong class="blue-head">RE@AGILE <br>(IREB Advanced Level)</strong><br>
       <p>Ihr pragmatischer Weg zu agilem Requirements Engineering
       </p>
     <p> Mit dem „agilen Duo“ Peter Hruschka und Markus Meuten </p>
       <p class="date-small">
-        Frühbucherpreis bei Anmeldung bis 31. August: € 1950,
+        Frühbucherpreis bei Anmeldung bis 30. Oktober: € 1950,
         Normalpreis: € 2200,-
       </p>
         <a href="/reagile" class="btn btn-custom-blue">Mehr Info</a>

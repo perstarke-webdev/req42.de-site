@@ -42,7 +42,7 @@ excerpt: "Wir freuen uns auf Sie!"
 
 <label for="kurs">Für welchen Kurs melden Sie an?</label>
 <select id="kurs" name="Kurs" required>
-  <option value="RE@AGILE 17.-19. Januar 2024, Frankfurt/Main">RE@AGILE,  17.-19. Januar 2024, Frankfurt/Main</option>
+  <option value="RE@AGILE 16.-18. Juli 2024, München">RE@AGILE,  16.-18. Juli 2024, München</option>
   <option value="sonstige">Sonstige</option>
 </select>
 

@@ -49,3 +49,8 @@ Diese Daten sind nicht bestimmten Personen zuordenbar. Eine Zusammenführung die
 
 ## Kontaktaufnahme
 Bei der Kontaktaufnahme mit dem Anbieter (zum Beispiel per Kontaktformular oder E-Mail) werden die Angaben des Nutzers zwecks Bearbeitung der Anfrage sowie für den Fall, dass Anschlussfragen entstehen, gespeichert.
+
+#### Erstellt von Per Starke Web Development
+  
+[Website](https://perstarke-webdev.de/)   
+[Blog](https://blog.perstarke-webdev.de/)

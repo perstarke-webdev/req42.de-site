@@ -49,3 +49,8 @@ This data cannot be assigned to specific persons. A combination of this data wit
 
 ## Contacting
 When contacting the provider (for example, by contact form or e-mail), the user's information is stored for the purpose of processing the request and in the event that follow-up questions arise.
+
+#### Created by Per Starke Web Development
+  
+[Website](https://perstarke-webdev.de/)   
+[Blog](https://blog.perstarke-webdev.de/)
